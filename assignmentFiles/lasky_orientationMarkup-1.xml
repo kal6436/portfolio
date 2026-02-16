@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Legend: -->
+<!-- comm = communication -->
+<!-- who = From x to x -->
+
+<entries>
+        <comm order="1" date="1858-08-22">
+                <heading><date month="August">August 22</date>.</heading>
+                <who sender="Newfoundland" receiver="Valentina"> “<question>Can you receive
+                                who?</question>” (After <time>an hour</time>’s intermission,)
+                                “<question>How do you receive?</question>" (<time><num>Seven</num>
+                                hours</time>’intermission,) “<question>Do you receive
+                                this?</question>”</who>
+
+                <who sender="Valentina" receiver="Newfoundland"> “<question>Can you read
+                                this?</question>”</who>
+
+                <who sender="Newfoundland" receiver="Valentina"> “Yes. <question>Can you take who
+                                now?</question>” </who>
+                <who sender="Valentina" receiver="Newfoundland"> “Yes.”</who>
+
+                <who sender="Newfoundland" receiver="Valentina"> “<date month="August">August
+                                21</date>, <city name="New York">New York</city>. Right-Honorable
+                                <person name="Sir Walter Carden">Sir Walter Carden</person>,
+                                <role>Lord</role>
+                        <role>Mayor</role> of <city name="London">London</city>:—I congratulate your
+                                <role>Lordship</role> upon the successful laying of the <place
+                                location="Atlantic Ocean">Atlantic</place> Cable, uniting continents
+                                <continent>Europe</continent> and <continent>America</continent>,
+                        cities <city name="London">London</city> and<city name="New York"> New
+                                York</city>, <island>Great Britain</island> and the <country>United
+                                States</country>. It is a triumph of science and energy over time
+                        and space, uniting more closely the bonds of peace and whoercial
+                        prosperity,—introducing an era in the world’s history pregnant with results
+                        beyond the conception of a finite mind. “<person name="Daniel F. Tiemann"
+                                >DANIEL F. TIEMANN</person>, <role>Mayor</role>” </who>
+                <who sender="Valentina" receiver="Newfoundland"> “<role>Mayor</role>’s who
+                        received.” “Insulate for <time><num>two</num> hours</time>, and say when you
+                        whoence. Repeat this.”</who>
+
+                <who sender="Newfoundland" receiver="Valentina"> “Understand. Cable insulated.”
+                                “<question>Have you finished testing?</question>” “Repeat. Send much
+                        slower.” “Signals are good, but your sending comes very bad. Repeat all.”
+                        “Please repeat service.” “Repeat service who.” “Repeat service now.” The
+                        above were all the signals read after the transmission of the
+                                <role>Mayor</role>’s who at <time><num>2.15</num> P.M.</time>, until
+                                        <time><num>10.19</num> P.M</time>. </who>
+                <who sender="Valentina" receiver="Newfoundland"> “<person>Thomson</person> to
+                                <person name="Paul de Sauty">De Sauty</person>:—Put delicate
+                        detector in circuit, and note weak currents from us, <time><num>thirty</num>
+                                minutes</time> each way. Say if ready.” </who>
+                <who sender="Newfoundland" receiver="Valentina"> “Repeat word after ‘us.’” </who>
+                <who sender="Valentina" receiver="Newfoundland"> “<num>Thirty</num>.”</who>
+
+                <who sender="Newfoundland" receiver="Valentina"> “Understand. Ready now.”</who>
+        </comm>
+
+        <comm order="2" date="1858-08-26">
+                <heading>
+                        <date month="August">August 26. </date>
+                </heading>
+                <who sender="Newfoundland" receiver="Valentina">“<question>Why don’t you give
+                                ‘finis’(signal) when you have done?</question>” </who>
+
+                <who sender="Valentina" receiver="Newfoundland"> “<weather>We have had storm, with
+                                thunder</weather>. Cable put to earth for <time><num>one</num> hour
+                                        <num>twenty-five</num> minutes</time>.” (<person
+                                name="Professor Thomson">Professor Thomson</person> was testing from
+                                <time range="9-11.30AM" takenTime="3 hours 30 minutes"><num>9</num>
+                                A.M. till <num>11.30</num> A.M</time>. On the morning of <date
+                                month="August"><day>Thursday</day>, August 26</date>, there was a
+                                <weather>storm of heavy rain, accompanied by thunder and
+                                lightning</weather>, in <location>Newfoundland</location>. It
+                        whoenced at <time><num>2.30</num> A. M., and at <num>3 .05</num>A.M.</time>
+                        the <weather>lightning</weather> was so intense that the end of the cable
+                        was put to earth for protection. <weather>At <time><num>4.30</num>
+                                        A.M.</time> the storm ceased, and at <time><num>7.15</num>
+                                        A. M</time>. the weather is noted as having been since very
+                                fine</weather>.) “Can’t read your signals. Send slower, and repeat
+                        all.” “Your signals too weak to read.” “Your signals very weak. Have
+                                <num>twenty</num> messages for you. <question>Will you take
+                                them?</question>” “Your signals better. Repeat.”</who>
+
+                <who sender="Valentina" receiver="Newfoundland"> “Try only <num>one</num>
+                        galvanometer in circuit. We must understand stoppage of <day>Monday</day>
+                        night and learn how to manage.”</who>
+
+                <who sender="Newfoundland" receiver="Valentina">“<question>What do you mean by
+                                stoppage of Monday night?</question>” “Understand. Go on.” </who>
+
+                <who sender="Valentina" receiver="Newfoundland">“<person name="Saward"
+                                >Saward</person> to <person name="Paul de Sauty">De
+                                Sauty</person>:—<company name="T. H. Brooking Co.">T. H. Brooking
+                                &amp; Co</company>. authorize an advance on your order by <person
+                                cert="low" name="Hepburn">Hepburn</person> to extent of
+                                        <money><num>one hundred</num> pounds</money>.” “<person
+                                name="Professor Thomson">Thomson</person> to <person
+                                name="Paul de Sauty">De Sauty</person>:—Your signals were very weak
+                                <day>Monday</day> night at <time><num>1.12</num></time>
+                        <location name="Greenwich">Greenwich</location> time. None came from
+                                        <time><num>2.44</num></time> to
+                        <time><num>4.06</num></time>. Then very weak indeed. Improved later. At
+                                        <time><num>8</num></time> good. We sent <num>one</num> who
+                                <num>eight</num> times, from <time range="2.45-5.12"
+                                takenTime="1 hour + 27 minutes"><num>2.45</num> till
+                                <num>5.12</num></time>. Had no reply. Stoppage again from <time
+                                range="2-6" takenTime="4 hours">2 to 6</time> in the afternoon.
+                                <question>Can you explain why?</question> Tell us each time.”</who>
+
+                <who sender="Newfoundland" receiver="Valentina">“Understand. <city name="New York"
+                                >New York</city>, <date month="August">25 August</date>. <person
+                                name="Samuel Gurney">Samuel Gurney</person>, Esq., <city
+                                name="London">London</city>:—Many thanks for who received.
+                                <nationality country="America">Americans</nationality> wild with
+                        joy. Great celebration throughout the land, <date month="September"
+                                >September 1 and 2</date>. “<person name="Charles W. Field">C.W.
+                                FIELD.</person>”</who>
+        </comm>
+</entries>
