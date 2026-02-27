@@ -29,11 +29,7 @@ font-family: "Balsamiq Sans", sans-serif;
 }
 
 body {
-<<<<<<< HEAD
-    background: #FFFCF8;
-=======
     background: #1C0300;
->>>>>>> c4a70bd5e6c08a95056c784096119231db775874
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
     margin: 0px;
     
@@ -52,11 +48,6 @@ body {
     align-content: center;
 }
 
-/* H1-6 modifiers */
-h1 {
-    font-size: 36px;
-}
-
 .branding {
     
     /* alignments */
@@ -67,9 +58,13 @@ h1 {
     color: #1C0300;
 }
 
+img {
+    width: 59%;
+    max-width: 500px;
+}
 
 .logoImg {
-    width: 120px;
+    width: 100px;
     padding: 15px 0px 0px 0px;
     margin: 0px;
 }
@@ -91,17 +86,10 @@ nav {
 nav a {
     padding: 5px 15px 5px 15px;
     text-decoration: none;
-    border: 2px solid #B3540030;
+    border: 2px solid #B3540020;
     border-radius: 10px;
     color: #724023;
     margin: 0px;
-}
-
-@media (max-width: 600px) {
-    nav a {
-        margin: 0px;
-        padding: 8px;
-    }
 }
 
 /* Body Content */
@@ -156,13 +144,6 @@ nav a {
 }
 
 
-<<<<<<< HEAD
-img {
-    width: 59%;
-    max-width: 500px;
-}
-
-=======
 #galleryImgs {
     padding-top: 50px;
 }
@@ -178,7 +159,6 @@ img {
     justify-content: center;
     align-content: center;
 }
->>>>>>> c4a70bd5e6c08a95056c784096119231db775874
 
 figcaption {
     font-size: 12px;
@@ -187,8 +167,7 @@ figcaption {
     padding-top: 10px;
 }
 
-/* footer */
 .featureBlock {
-    background-color:#FFF5A8;
+    background-color:pink;
     font-size: smaller;
 }
