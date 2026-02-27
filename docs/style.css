@@ -1,5 +1,5 @@
 body {
-    background: #FAF5EE;
+    background: #1F1001;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
     margin: 0px;
     
@@ -8,7 +8,7 @@ body {
 
 /* Navigation Menu */
 .headerNav {
-    background: #FFF5A8;
+    background: #FFF5A6;
     margin: 0px;
 
     /* alignments */
@@ -63,8 +63,9 @@ nav a {
 
 /* Body Content */
 .bodyContent {
-    padding: 2px 15px 20px 15px;
+    padding: 2px 50px 20px 50px;
     margin: 0px;
+    color: #FFFCF8;
     
     /* alignment */
     display: flex;
@@ -72,14 +73,50 @@ nav a {
     
 }
 
-div.side-by-side {
-    display: flex;
+.bodyContent hr {
+    border-width: 2px;
+    border-color: #FFFCF8;
+    border-style: solid;
+    margin: 0;
+    width: 20%;
 }
 
+@media (max-width: 600px) {
+    .bodyContent hr {
+        width: 50%;
+    }
+}
+
+.bodyContent section div {
+    padding-bottom: 50px;
+}
+
+#bean figure {
+    padding-top: 50px;
+    width: 50%;
+}
+
+#galleryImgs {
+    padding-top: 50px;
+}
+
+#galleryImgs figure{
+    width: 50%;
+    padding-bottom: 50px;
+    margin: auto;
+    
+    /* alignment */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
 
 figcaption {
-    font-size: 11px;
-    color: brown;
+    font-size: 12px;
+    color: #FFF5A6;
+    width: 200px;
+    padding-top: 10px;
 }
 
 .featureBlock {

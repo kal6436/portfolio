@@ -1,52 +1,63 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-    <!-- Try opening this file on your local computer in a web browser (Firefox, Chrome, etc). 
-     * On Windows, go to the browser and type control + o and browse to find this file to open it.
-     * On Mac, go to the browser and type command + o and browse to find this file to open it. 
-     Look for the text in the <title> element in the tab above the browser search bar. Do you see it? 
-    -->
     <head>
-        <!-- What's in the <head> element is a "meta" area not for display. 
-            It holds important information about the website's contents.
-            The text inside the <title> element does show in the top tab of a web browser. 
-             The <head> is where we will include info about styling the site, too. -->
         <title>Starter HTML</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" type="text/css" href="style.css" />
-        <!-- Here is a place where we can add a little styling code called CSS to this page. 
-            I used it to apply a background color to the body element.
-        -->
-       
     </head>
     <body>
-        <!-- CONTENT FOR DISPLAY. The <body> element holds the content we see in the display window on the web browser.-->
         <div class="headerNav">
             <div class="branding">
                 <div class="logoImg">
                     <img
                         src="https://sites.psu.edu/kalscollage/files/2026/01/20220428_122551024_iOS-1024x1024.png"
-                    />
+                     />
                 </div>
                 <h1><strong>Lasky Portfolio</strong></h1>
             </div>
             <nav>
                 <a href="index.html">Home</a>
                 <a href="about.html">About</a>
-                <a href="https://sites.psu.edu/kalscollage/">Blog</a>
                 <a href="gallery.html">Gallery</a>
-                <a href="bean.html">Bean</a>
+                <a href="https://sites.psu.edu/kalscollage/">Blog</a>
             </nav>
         </div>
-        
-        <p>This is my about page.</p>
-        <div class="side-by-side">
-            <p>Go back to my <a href="index.html">main page</a>.</p>
-            <figure>
-                <img src="images/cockatoo.jpg" />
-                <figcaption>Here is a llama I encountered on an amazing hiking trip in Macchu
-                    Picchu, on the Inca Trail.</figcaption>
-            </figure>
+        <div class="bodyContent">
+            <section>
+                <div id="aboutMe">
+                    <h1>About me</h1>
+                    <hr></hr>
+                    <p>Howdy! I’m Kyle Lasky, a Sophomore majoring in DIGIT, (digital media, art,
+                        and information), at Pennsylvania State University, the Erie campus.</p>
+                    <p>I am an aspiring UX/UI designer and website developer. I love to use my
+                        creativity to enhance my projects.</p>
+                </div>
+            </section>
+            <section>
+                <div id="whyDigit">
+                    <h1>Why DIGIT?</h1>
+                    <hr></hr>
+                    <p>Throughout my life I have been very passionate about learning they, “why”, of
+                        everything. My favorite show growing up (and to this day) is, “How It’s
+                        Made”.</p>
+
+                    <p>In high school I learned about website development and dipped my toes into
+                        the world of user experience. Ever since I knew it was what I wanted to do. </p>
+
+                    <p>Making sites user friendly, functional, and beautiful is what I strive to do
+                        with every project I take on. I’m always learning to improve my
+                        abilities.</p>
+                </div>
+            </section>
+            <section><div id="bean">
+                    <h1> Who is Bean?</h1>
+                    <hr></hr>
+                    <p>Bean is my surpurrvisor! She is a rescued kitty with a scruffy orange coat and a sturdy half-tail. </p>
+                        
+                        <p>She helps me design all of my projects and makes sure to tell me exactly what she likes and dislikes.</p>
+                    <figure><img src="images/beanTalking.png"></img><figcaption>Bean talking.</figcaption></figure>
+            </div></section>
         </div>
     </body>
 </html>
