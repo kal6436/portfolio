@@ -1,5 +1,39 @@
+/* Fonts
+font-family: "Baloo Bhaina 2", sans-serif;
+font-family: "Balsamiq Sans", sans-serif;
+font-family: "Montserrat", sans-serif;
+ */
+ 
+h1 {
+    font-family: "Baloo Bhaina 2", sans-serif;
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 36px;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+p {
+font-family: "Balsamiq Sans", sans-serif;
+    font-size: 18px;
+}
+
 body {
+<<<<<<< HEAD
     background: #FFFCF8;
+=======
+    background: #1C0300;
+>>>>>>> c4a70bd5e6c08a95056c784096119231db775874
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
     margin: 0px;
     
@@ -30,6 +64,7 @@ h1 {
     flex-direction: row;
     justify-content: center;
     align-content: center;
+    color: #1C0300;
 }
 
 
@@ -71,8 +106,9 @@ nav a {
 
 /* Body Content */
 .bodyContent {
-    padding: 2px 15px 20px 15px;
+    padding: 2px 50px 20px 50px;
     margin: 0px;
+    color: #FFFCF8;
     
     /* alignment */
     display: flex;
@@ -80,20 +116,75 @@ nav a {
     
 }
 
-div.side-by-side {
-    display: flex;
+.bodyContent hr {
+    border-width: 2px;
+    border-color: #FFFCF8;
+    border-style: solid;
+    margin: 0;
+    width: 20%;
+}
+
+.bodyContent li {
+    padding-bottom: 15px;
+    font-family: "Balsamiq Sans", sans-serif;
+    font-style: italic; 
+}
+
+.bodyContent li:hover {
+    text-decoration: underline;
+    color: #E3699E;
+}
+
+.bodyContent a {
+    color: #E3699E;
+    text-decoration: none;
+}
+
+@media (max-width: 600px) {
+    .bodyContent hr {
+        width: 50%;
+    }
+}
+
+.bodyContent section div {
+    padding-bottom: 50px;
+}
+
+#bean figure {
+    padding-top: 30px;
+    width: 50%;
 }
 
 
+<<<<<<< HEAD
 img {
     width: 59%;
     max-width: 500px;
 }
 
+=======
+#galleryImgs {
+    padding-top: 50px;
+}
+
+#galleryImgs figure{
+    width: 50%;
+    padding-bottom: 50px;
+    margin: auto;
+    
+    /* alignment */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+>>>>>>> c4a70bd5e6c08a95056c784096119231db775874
 
 figcaption {
-    font-size: 11px;
-    color: brown;
+    font-size: 12px;
+    color: #FFF5A6;
+    width: 200px;
+    padding-top: 10px;
 }
 
 /* footer */
