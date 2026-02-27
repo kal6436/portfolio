@@ -1,5 +1,5 @@
 body {
-    background: #FAF5EE;
+    background: #FFFCF8;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
     margin: 0px;
     
@@ -8,7 +8,7 @@ body {
 
 /* Navigation Menu */
 .headerNav {
-    background: #FFF5A8;
+    background: #FFF5A6;
     margin: 0px;
 
     /* alignments */
@@ -16,6 +16,11 @@ body {
     flex-direction: column;
     justify-content: center;
     align-content: center;
+}
+
+/* H1-6 modifiers */
+h1 {
+    font-size: 36px;
 }
 
 .branding {
@@ -27,13 +32,9 @@ body {
     align-content: center;
 }
 
-img {
-    width: 59%;
-    max-width: 500px;
-}
 
 .logoImg {
-    width: 100px;
+    width: 120px;
     padding: 15px 0px 0px 0px;
     margin: 0px;
 }
@@ -55,10 +56,17 @@ nav {
 nav a {
     padding: 5px 15px 5px 15px;
     text-decoration: none;
-    border: 2px solid #B3540020;
+    border: 2px solid #B3540030;
     border-radius: 10px;
     color: #724023;
     margin: 0px;
+}
+
+@media (max-width: 600px) {
+    nav a {
+        margin: 0px;
+        padding: 8px;
+    }
 }
 
 /* Body Content */
@@ -77,12 +85,19 @@ div.side-by-side {
 }
 
 
+img {
+    width: 59%;
+    max-width: 500px;
+}
+
+
 figcaption {
     font-size: 11px;
     color: brown;
 }
 
+/* footer */
 .featureBlock {
-    background-color:pink;
+    background-color:#FFF5A8;
     font-size: smaller;
 }
