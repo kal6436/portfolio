@@ -1,5 +1,35 @@
+/* Fonts
+font-family: "Baloo Bhaina 2", sans-serif;
+font-family: "Balsamiq Sans", sans-serif;
+font-family: "Montserrat", sans-serif;
+ */
+ 
+h1 {
+    font-family: "Baloo Bhaina 2", sans-serif;
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 36px;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+p {
+font-family: "Balsamiq Sans", sans-serif;
+    font-size: 18px;
+}
+
 body {
-    background: #1F1001;
+    background: #1C0300;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
     margin: 0px;
     
@@ -25,6 +55,7 @@ body {
     flex-direction: row;
     justify-content: center;
     align-content: center;
+    color: #1C0300;
 }
 
 img {
@@ -81,6 +112,22 @@ nav a {
     width: 20%;
 }
 
+.bodyContent li {
+    padding-bottom: 15px;
+    font-family: "Balsamiq Sans", sans-serif;
+    font-style: italic; 
+}
+
+.bodyContent li:hover {
+    text-decoration: underline;
+    color: #E3699E;
+}
+
+.bodyContent a {
+    color: #E3699E;
+    text-decoration: none;
+}
+
 @media (max-width: 600px) {
     .bodyContent hr {
         width: 50%;
@@ -92,9 +139,10 @@ nav a {
 }
 
 #bean figure {
-    padding-top: 50px;
+    padding-top: 30px;
     width: 50%;
 }
+
 
 #galleryImgs {
     padding-top: 50px;
