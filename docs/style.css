@@ -53,6 +53,61 @@ body {
     align-content: center;
 }
 
+/* Submenu dropdown */
+.subNav {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.subNavBtn {
+    padding: 5px 15px;
+    border: 2px solid #B3540020;
+    border-radius: 10px;
+    background: none;
+    color: #724023;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.subNavContent {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #FFF5A6;
+    border-radius: 10px;
+    padding: 10px;
+    flex-direction: column;
+    gap: 10px;
+    box-shadow: 0px 5px 5px #B3540020;
+    z-index: 10;
+}
+
+.subNav:hover .subNavContent {
+    display: flex;
+}
+
+.subNavContent a:hover {
+    background-color: #B3540020;
+    color: #3d0313;
+}
+
+.subNavContent a {
+    padding: 5px 15px;
+    font-size: 15px;
+    border: 2px solid #B3540020;
+    border-radius: 10px;
+    color: #724023;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+
+
+
 .branding {
     
     /* alignments */
