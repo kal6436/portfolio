@@ -261,6 +261,12 @@ figcaption {
     padding-top: 10px;
 }
 
+.model {
+    display: flex;
+    justify-content: center; 
+    align-content: center;
+}
+
 /* Footer */
 .footer {
     background-color: #FFF5A6;
