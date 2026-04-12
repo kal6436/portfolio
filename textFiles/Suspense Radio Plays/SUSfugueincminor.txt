@@ -1,19 +1,12 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+        Suspense: Fugue in C Minor
 
-<html>
-<head>
 
-        <title>Suspense: Fugue in C Minor</title>
-
-<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
-
-<body>
-<h1>Fugue in C Minor</h1><pre>Suspense
+Fugue in C Minor Suspense
 Fugue in C Minor
 June 01 1944
 
 
-<u>CAST</u>:
+CAST:
 ANNOUNCER
 1ST MAN
 2ND MAN
@@ -31,7 +24,7 @@ MUSIC: THEME ... THEN IN BG--
 
 ANNOUNCER: Roma Wines present--
 
-MAN IN BLACK: --<u>SUSPENSE</u>!
+MAN IN BLACK: --SUSPENSE!
 
 ANNOUNCER: Roma Wines, made in California for enjoyment throughout the world.
 
@@ -49,7 +42,7 @@ made in California for enjoyment throughout the world.
 MUSIC: THEME ... IN BG
 
 MAN IN BLACK: The Roma Wine Company of Fresno, California welcomes you again 
-to this weekly half hour of - <u>SUSPENSE</u>. Tonight from Hollywood, Roma Wines 
+to this weekly half hour of - SUSPENSE. Tonight from Hollywood, Roma Wines 
 bring you as stars Miss Ida Lupino, currently being seen in Warner Brothers' 
 "In Our Time," and Mr. Vincent Price of Twentieth Century-Fox, soon to be seen 
 in the Darryl F. Zanuck production, "Wilson." For the appearance of these two 
@@ -57,7 +50,7 @@ distinguished screen personalities, Lucille Fletcher has written a suspense
 play that deals with brooding anxiety and sharpening suspicion, played against 
 the severe and forbidding background of the late Victorian era. And so, with 
 "Fugue in C Minor," and with the performances of Ida Lupino and Vincent Price, 
-we again hope to keep you in -- <u>SUSPENSE</u>!
+we again hope to keep you in -- SUSPENSE!
 
 MUSIC: THEME UP AND OUT ... THEN A HUGE PIPE ORGAN PLAYS A BROODING 
 INTRODUCTION ... THEN A MORE CONVENTIONAL STRING-HEAVY UNDERSCORE IN BG
@@ -112,7 +105,7 @@ EVANS: Oh, indeed? (CHUCKLES) Well, I'm afraid our Pilotsville society must
 seem a bit dull to you, Miss Peabody.
 
 AMANDA: Oh, no, not at all. It's charming. I've enjoyed everything so much 
-tonight -- your beautiful house, the music. I hear <u>you're</u> going to play for 
+tonight -- your beautiful house, the music. I hear you're going to play for 
 us, Mr. Evans.
 
 EVANS: Oh, a bit. Do you care for organ music, Miss Peabody?
@@ -167,7 +160,7 @@ all inside, I'm afraid.
 EVANS: That's plenty. If one can't play, it's better just to enjoy the music 
 of others. I can't bear this sentimental drumming, can you?
 
-AMANDA: I shouldn't think you <u>would</u> enjoy it.
+AMANDA: I shouldn't think you would enjoy it.
 
 EVANS: The idiotic tunes people play nowadays. Give me the old stern classics. 
 They have strength and power! Give me something with life to it, something 
@@ -243,7 +236,7 @@ mark on them which may endure all their lives.
 
 AMANDA: Why, what do you mean?
 
-EVANS: They suffer from delusions. Delusions about <u>her</u>. They think that in 
+EVANS: They suffer from delusions. Delusions about her. They think that in 
 some way she is linked-- Her soul is imprisoned in the organ pipes.
 
 AMANDA: How horrible.
@@ -266,7 +259,7 @@ BLACK--
 
 MAN IN BLACK: Tonight for "Suspense," Roma Wines are bringing you as stars 
 Miss Ida Lupino and Mr. Vincent Price, whom you've heard in the prologue to 
-"Fugue in C Minor" -- tonight's tale of <u>SUSPENSE</u>!
+"Fugue in C Minor" -- tonight's tale of SUSPENSE!
 
 MUSIC: UP AND OUT
 
@@ -298,7 +291,7 @@ MUSIC: THEME
 
 MAN IN BLACK: And now it is with pleasure that we bring back to our sound 
 stage Ida Lupino as Amanda Peabody and Vincent Price as Theodore Evans in 
-"Fugue in C Minor," a tale well-calculated to keep you in -- <u>SUSPENSE</u>!
+"Fugue in C Minor," a tale well-calculated to keep you in -- SUSPENSE!
 
 MUSIC: THEME, UP ... THEN TRANSITIONS TO ORGAN INTRODUCTION ... THEN ORGAN 
 BEHIND AMANDA--
@@ -466,12 +459,12 @@ explain to them?
 EVANS: Oh, no. (EXHALES) Oh, it's so horrible, so sordid.
 
 AMANDA: Oh, I know, my dear. I hate to make you suffer. But if we could find 
-<u>some</u> way-- If they could just <u>believe</u>. When you brought her back here to 
+<u>some</u> way-- If they could just believe. When you brought her back here to 
 Pilotsville, there was a funeral?
 
 EVANS: Yes.
 
-AMANDA: And was there anybody <u>then</u> who saw her?
+AMANDA: And was there anybody then who saw her?
 
 EVANS: Oh, no, I couldn't bear it. Amanda, I - I didn't think at the time-- 
 She'd been so beautiful. Her lovely, sweet, gentle face and her eyes-- The 
@@ -479,11 +472,11 @@ horses had completely trampled--
 
 AMANDA: (DISMAYED) Oh. 
 
-EVANS: Even if the children <u>had</u> been able to come home, I wouldn't have let 
+EVANS: Even if the children had been able to come home, I wouldn't have let 
 them look. The coffin was sealed when I left Philadelphia. I didn't want to 
 see her again myself.
 
-AMANDA: But there <u>was</u> a funeral. People came, there were flowers, an 
+AMANDA: But there was a funeral. People came, there were flowers, an 
 undertaker--
 
 EVANS: Yes.
@@ -512,12 +505,12 @@ DAVID: Yes. But how did she know it was Mama?
 
 AMANDA: Oh, David--
 
-DAVID: She didn't <u>see</u> Mama, did she?
+DAVID: She didn't see Mama, did she?
 
 AMANDA: Well, nobody saw your poor mama, dear. She wouldn't have wanted anyone 
 to see her.
 
-DAVID: Mama <u>wasn't</u> there. She talks to us every night. She tells us to look 
+DAVID: Mama wasn't there. She talks to us every night. She tells us to look 
 for her.
 
 AMANDA: Where, dear?
@@ -548,7 +541,7 @@ DAVID: Because--
 
 AMANDA: Because what?
 
-DAVID: Because -- you - you <u>like</u> him.
+DAVID: Because -- you - you like him.
 
 AMANDA: Him?
 
@@ -653,10 +646,10 @@ EVANS: (UNCONVINCED) It was probably - nothing but the wind.
 
 AMANDA: (DETERMINED) Theodore, give me the key. I'm not afraid.
 
-EVANS: Are you saying that <u>I</u> am?
+EVANS: Are you saying that I am?
 
 AMANDA: I don't know. But I'll be fair with you, Theodore. I couldn't marry 
-you and live here with <u>that</u> any more than your children can.
+you and live here with that any more than your children can.
 
 EVANS: What do you mean?
 
@@ -667,7 +660,7 @@ EVANS: (INCREDULOUS) Get rid of the pipe organ?
 
 AMANDA: Yes!
 
-EVANS: But I couldn't! The whole house was <u>built</u> around it. It's been the very 
+EVANS: But I couldn't! The whole house was built around it. It's been the very 
 soul and spirit of this home.
 
 AMANDA: It's been the curse, you mean. Theodore, I know I'd go mad, too, if I 
@@ -684,7 +677,7 @@ AMANDA: (OVERWROUGHT) No. No, give me the key! Give me the key!
 
 EVANS: (CALM) You're hysterical, Amanda. I'm sorry I've overburdened you.
 
-AMANDA: (SUSPICIOUS) <u>Why</u> don't you want to go in there? Is it because you know 
+AMANDA: (SUSPICIOUS) Why don't you want to go in there? Is it because you know 
 something? You <u>did</u> something?
 
 EVANS: (SHARPLY) What do you mean?
@@ -715,7 +708,7 @@ AMANDA: Theodore?
 
 EVANS: Yes, Amanda?
 
-AMANDA: Let's not go in there. I <u>do</u> trust you, darling. I-I-I believe 
+AMANDA: Let's not go in there. I do trust you, darling. I-I-I believe 
 everything you've told me.
 
 EVANS: No.
@@ -779,7 +772,7 @@ AMANDA: Margaret?
 
 EVANS: You're very gullible, Amanda.
 
-AMANDA: Then you <u>did</u> kill her. (BEAT) You killed her in this room. (BEAT) And 
+AMANDA: Then you did kill her. (BEAT) You killed her in this room. (BEAT) And 
 you're going to kill me!
 
 EVANS: Yes. Simple, isn't it?
@@ -787,12 +780,12 @@ EVANS: Yes. Simple, isn't it?
 AMANDA: But why?! Why?!
 
 EVANS: (INCREASINGLY DEMENTED) I don't know. One gets tired every now and then 
-of mere music. Sometimes the classics demand competition. A <u>scream</u>, for 
+of mere music. Sometimes the classics demand competition. A scream, for 
 example. There's something so exciting about pulling out all the stops and 
-drowning out all human sound! Have you ever tried to match <u>your</u> voice, Miss 
+drowning out all human sound! Have you ever tried to match your voice, Miss 
 Peabody, against the thunderous voice of Bach?! It's most effective! And then 
 when the struggle gets weaker -- when the air is almost gone and you choke and 
-gasp for breath -- to bring the music down softer, <u>softer</u>--
+gasp for breath -- to bring the music down softer, softer--
 
 AMANDA: Theodore, you're mad, you're mad!
 
@@ -801,7 +794,7 @@ EVANS: Come, Amanda. Would you deny me that pleasure?
 AMANDA: No. (YELLS) Help! Help!
 
 EVANS: I promise the concert won't be too long. It takes about eight hours 
-before the air gives out. But, you know, I could play for <u>days</u>! And don't 
+before the air gives out. But, you know, I could play for days! And don't 
 worry about the children. I think you've convinced them about the ghost.
 
 SOUND: DOOR SLAMS SHUT
@@ -837,7 +830,7 @@ EVANS: Get away from me!
 
 SOUND: POUNDING AND RATTLING CONTINUE BEHIND--
 
-EVANS: (HYSTERICAL) Let me out, do you hear?! Let me out! <u>Let</u> <u>me</u> <u>out</u>! I can't 
+EVANS: (HYSTERICAL) Let me out, do you hear?! Let me out! Let me out! I can't 
 breathe! I'm suffocating! It's so dark! I can't breathe! Let me out! Please! 
 Please! I can't breathe! I can't--! No! No, don't-- I can't-- I can't-- Let me 
 out! I can't breathe! I - I -- (SWOONS AND FAINTS)
@@ -853,7 +846,7 @@ LAUGH BEHIND--
 MUSIC: FROM OFF, DAVID PLAYS HIS CORNET ... A WRY, TWISTED, MOCKING VERSION OF 
 "NARCISSUS" ... CONTINUES IN BG
 
-AMANDA: (UNNERVED) Theodore? <u>Theodore</u>!
+AMANDA: (UNNERVED) Theodore? Theodore!
 
 SOUND: AMANDA'S HURRIED FOOTSTEPS TO DOOR
 
@@ -915,7 +908,7 @@ Vincent Price, tonight's tale of--
 
 MUSIC: KNIFE CHORD
 
-MAN IN BLACK: --<u>SUSPENSE</u>! "Suspense" is produced and directed by William 
+MAN IN BLACK: --SUSPENSE! "Suspense" is produced and directed by William 
 Spier.
 
 ANNOUNCER: Of all the rich treasures man gets from the Earth and Mother 
@@ -946,7 +939,7 @@ Donald Crisp in--
 
 MUSIC: KNIFE CHORD
 
-MAN IN BLACK: --<u>SUSPENSE</u>! 
+MAN IN BLACK: --SUSPENSE! 
 
 ANNOUNCER: Presented by Roma Wines, R-O-M-A -- made in California for 
 enjoyment throughout the world.
@@ -954,7 +947,3 @@ enjoyment throughout the world.
 MUSIC: THEME ... UNTIL END
 
 ANNOUNCER: This is CBS, the Columbia Broadcasting System.
-
-</pre>
-<script type="text/javascript">(function(){window['__CF$cv$params']={r:'62a899b39e720dc2',m:'b57eedb911627da6ffda0b3dc6ebcc05e4402fe0-1614834650-1800-AdKCVeOMdlOJblHfd8ny9jj/At6igXAm6RhlfVvPzUXs/KFp5a6peQBwLbZrJYwOzOYs+hkNijaaUqtHbhiCrFQlOVAJkMBqvuhbM/0CVCBlUN32YLQjACy2NuuDjacL4zuzxYJss5C1NgU4qdVaSZU=',s:[0x561cbd21f5,0x258b16169b],}})();</script></body>
-</html>
