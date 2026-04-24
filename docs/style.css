@@ -3,28 +3,46 @@ font-family: "Baloo Bhaina 2", sans-serif;
 font-family: "Balsamiq Sans", sans-serif;
 font-family: "Montserrat", sans-serif;
  */
- 
+logoTxt {
+    font-family: "Baloo Bhaina 2", sans-serif;
+    font-size: 50px;
+    color: #28140D;
+    margin: 0;
+    padding: 0;
+}
+
+
 h1 {
     font-family: "Baloo Bhaina 2", sans-serif;
     font-size: 50px;
+    color: #FFF4DE;
     margin: 0;
     padding: 0;
 }
 
 h2 {
     font-family: "Montserrat", sans-serif;
+    color: #FFF4DE;
     font-weight: 600;
     font-size: 36px;
 }
 
 h3 {
     font-family: "Montserrat", sans-serif;
+    color: #FFF4DE;
     font-weight: 700;
     font-size: 28px;
 }
 
 p {
 font-family: "Balsamiq Sans", sans-serif;
+    color: #FFF4DE;
+    font-size: 18px;
+}
+
+li {
+font-family: "Balsamiq Sans", sans-serif;
+    color: #FFF4DE;
     font-size: 18px;
 }
 
@@ -34,7 +52,7 @@ html, body {
 }
 
 body {
-    background: #28140D;
+    background: #604025;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
     margin: 0px;
     display: flex;
@@ -43,7 +61,7 @@ body {
 
 /* Navigation Menu */
 .headerNav {
-    background: #FFF5A6;
+    background: #F8E17C;
     margin: 0px;
 
     /* alignments */
@@ -156,7 +174,7 @@ nav a {
 .bodyContent {
     padding: 2px 50px 20px 50px;
     margin: 0px;
-    color: #FFFCF8;
+        background: linear-gradient(to bottom, #301B14, #604025);
     
     /* alignment */
     display: flex;
@@ -173,18 +191,18 @@ nav a {
     width: 20%;
 }
 
-.bodyContent li {
+.bodyLinks li {
     padding-bottom: 15px;
     font-family: "Balsamiq Sans", sans-serif;
     font-style: italic; 
 }
 
-.bodyContent li:hover {
+.bodyLinks li:hover {
     text-decoration: underline;
     color: #FF73B0;
 }
 
-.bodyContent a {
+.bodyLinks a {
     color: #FF73B0;
     text-decoration: none;
 }
@@ -251,6 +269,9 @@ nav a {
     .gallItem {
         width: calc(50% - 20px);
     }
+    iframe {
+        width: 100%;
+    }
 }
 
 
@@ -267,16 +288,17 @@ figcaption {
     align-content: center;
 }
 
+
 /* Footer */
 .footer {
-    background-color: #FFF5A6;
+    background-color: #F8E17C;
     padding: 10px 5px 5px 5px;
     
     /* alignment */
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    width: 100%;
+    width: auto;
     position: static;
 }
 
