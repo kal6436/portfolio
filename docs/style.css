@@ -344,3 +344,7 @@ figcaption {
 .footer a:visited {
     color: #A04ED7;
 }
+
+.footer p {
+    color: #28140D;
+}
