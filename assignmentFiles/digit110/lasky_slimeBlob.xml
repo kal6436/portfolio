@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe make="slime">
+    <intro>For the simplest of all slime recipes, all you need is <ing id="cs"
+        >cornstarch</ing>.</intro>
+    <process>
+        <step num="1">Just <action>dump</action> <ing key="#cs">some</ing> into a <tool id="bwl">bowl</tool>,</step>
+        <step num="2"><action>add</action> some <ing id="wtr">water</ing>,</step>
+        <step num="3">&amp; <action>start mixing</action>.</step>
+        <step num="4"><action>Keep adding</action> <ing key="#wtr">water</ing> until it reaches the consistency you want(a good place to start is <ratio key="#cs #wtr" portion="2:1">2 parts <ing key="#cs">cornstarch</ing> to 1 part <ing key="#wtr">water</ing></ratio>).</step>
+        <step num="5" optional="yes">You can also <action>add</action> <ing id="fc">food coloring</ing> to make it look more legit.</step>
+    </process>
+</recipe>

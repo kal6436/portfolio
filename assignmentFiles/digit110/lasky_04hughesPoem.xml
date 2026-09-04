@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document title="Ballad of Booker T.">
+    <info>
+        <person role="author" ref="lh">Langston Hughes</person>
+        <backgrnd>The poet <person ref="#lh">Langston Hughes</person>
+            <date year="1902-1967" type="lifespan">(1902–1967)</date> was a regular contributor to
+            the <mag founded="1910" ref="crisis">Crisis</mag>. His first published poem appeared in
+                <mag ref="#crisis">the magazine</mag> in <date year="1921" type="publication"
+                >1921</date>. <person ref="#lh">Hughes</person>' poetry and other writings often
+            described the lives and culture of working-class <ethnicity>African
+                Americans</ethnicity> or themes that concerned that segment of the population. In
+            this poem, the <person ref="lh">narrator</person> tries to reconcile the reputation of
+                <person ref="bt">Booker T. Washington</person> as collaborator with white racists
+            with the time period and place. The <person ref="lh">narrator</person> points out,
+                <quote from="#lh">"For yesterday / Was not today"</quote> and <quote from="#lh">"in
+                Alabama in '85 / A joker was lucky / To be alive."</quote> In these lines he reminds
+            the reader that the South late in nineteenth century was a dangerous place for an
+                <ethnicity>African American</ethnicity> to protest racial segregation or appear to
+            question white supremacy. <person ref="#lh">Hughes</person> was the great-nephew and
+            namesake of <place ref="va" type="state" country="us">Virginia</place>'s first
+                <ethnicity>African American</ethnicity> Congressman, <person role="congressman"
+                ethnicity="#africanAmerican" ref="jm">John Mercer Langston</person>. </backgrnd>
+        <date time="1941/06/01" year="1941" month="June" day="1">June 1, 1941</date>
+        <context><person ref="bt">Booker T. Washington</person> Born a slave in <place ref="#va"
+                >Virginia</place> in <date year="1856">1856</date>, <person ref="bt"
+                >Washington</person> was the founder of the <org ref="tuskInst">Tuskegee Institute</org> in
+                <place state="al" country="us">Alabama</place> in <date year="1881">1881</date>. Under his leadership the
+            institute became the largest and most famous school for <ethnicity>African Americans</ethnicity> in the South,
+            and he became the best-known <ethnicity>African American</ethnicity> leader in the nation. <person ref="bt"
+                >Washington</person> advocated for vocational training for <ethnicity>African Americans</ethnicity> and
+            taught that through racial self-help and the accumulation of material wealth <ethnicity>African
+            Americans</ethnicity> could endure and prosper in the racially segregated society imposed on them at
+            the end of the nineteenth century and then slowly enter mainstream <nationality>American</nationality> culture.
+            Political and civil rights would follow. At the <date year="1895">1895</date> exposition, <person ref="bt">Washington</person> spoke his
+            famous simile for segregated racial cooperation: <quote from="#bt">"In all things that are purely social
+            we can be as separate as the fingers, yet as the hand in all things essential to mutual
+            progress."</quote> <person ref="#bt">Washington</person> did not accept segregation or white supremacy as correct but
+            sought ways for <ethnicity>African Americans</ethnicity> to make their own ways within segregated society that
+            it was not possible for them to change. Many white <nationality>Americans</nationality> interpreted <person ref="#bt">Washington</person>'s
+            statements as an endorsement of racial segregation. </context>
+    </info>
+
+    <transcript>
+        <header>
+            <line n="1">
+                <title>
+                    <underline>BALLAD OF <person>BOOKER T</person>.</underline>
+                </title>
+            </line>
+            <line n="2">by</line>
+            <line n="3">
+                <person ref="#lh">Langston Hughes</person>
+            </line>
+        </header>
+        <poem>
+            <line n="4">
+                <person ref="#bt">Booker T.</person>
+            </line>
+            <line n="5">Was a practical man.</line>
+            <line n="6">He said, Till the soil</line>
+            <line n="7">And learn from the land.</line>
+            <line n="8">Let down your bucket</line>
+            <stamp part="1" ref="congStamp" org="#libraryCong">the library of congress</stamp>
+            <line n="9">Where you are.</line>
+            <stamp part="2" ref="#congStamp" org="#libraryCong"/>
+            <line n="10">Your fate is here</line>
+            <stamp part="3" ref="#congStamp" org="#libraryCong"/>
+            <line n="11">And not afar.</line>
+            <stamp part="4" ref="#congStamp" org="#libraryCong"/>
+            <line n="12">To help yourself</line>
+            <stamp part="5" ref="#congStamp" org="#libraryCong"/>
+            <line n="13">And your fellow man,</line>
+            <line n="14">Train your head,</line>
+            <line n="15">Your heart, <underline>and your hand</underline>.</line>
+            <line n="16">For smartness alone's</line>
+            <line n="17">Surely not meet—</line>
+            <line n="18">If you haven't at the same time</line>
+            <line n="19">Got something to eat.</line>
+            <line n="20">Thus at <org ref="tuskInst">Tuskegee</org></line>
+            <line n="21"><person ref="#bt">He</person> built a school</line>
+            <line n="22">With book-learning there</line>
+            <line n="23">And the workman's tool.</line>
+            <line n="24"><person ref="#bt">He</person> started out</line>
+            <line n="25">In a simple way—</line>
+            <line n="26">For yesterday</line>
+            <line n="27">Was <underline>not</underline> today.</line>
+            <line n="28">Sometimes <person ref="#bt">he</person> had</line>
+            <line n="29">Compromise in <person ref="#bt">his</person> talk—</line>
+            <line n="30">For a man must crawl</line>
+            <line n="31">Before he can walk—</line>
+            <line n="32">And in <place state="al" country="us">Alabama</place> in <date year="1985">'85</date></line>
+            <line n="33">A joker was lucky</line>
+            <line n="34">To be alive.</line>
+            <line n="35">But <person ref="#bt">Booker T</person>.</line>
+            <line n="36">Was nobody's fool:</line>
+            <line n="37">You may carve a dream</line>
+            <line n="38">With an humble tool.</line>
+            <line n="39">The tallest tower</line>
+            <line n="40">Can tumble down</line>
+            <line n="41">If it be not rooted</line>
+            <line n="42">In solid ground.</line>
+            <line n="43">So, being a far-seeing </line>
+            <line n="44">Practical man,</line>
+            <line n="45"><person ref="#bt">He</person> said, Train your head,</line>
+            <line n="46">Your heart, <underline>and your hand</underline>.</line>
+            <line n="47">Your fate is here</line>
+            <line n="48">And not afar,</line>
+            <line n="49">So let down your bucket</line>
+            <line n="50">Where you are.</line>
+        </poem>
+        <credit>
+            <line n="51">
+                <person ref="#lh">LANGSTON HUGHES</person>
+            </line>
+            <line n="52">Final Draft,</line>
+            <place address="Hollow Hills Farm" city="Monterey" state="ca" country="us">
+                <line n="53">Hollow Hills Farm,</line>
+                <line n="54">Monterey, California,</line>
+            </place>
+            <line n="55">
+                <date>June 1, 19</date>
+            </line>
+        </credit>
+    </transcript>
+    <citation> Citation: Drafts of <person ref="#lh">Langston Hughes</person>'s poem "<title>Ballad of Booker T.,</title>" <date time="1941/05/30-1941/06/01" year="1941" month="05-06" day="30-1">30 May–1 June 1941</date>.
+        <source>(<person ref="#lh">Langston Hughes</person> Collection) Manuscript Division, <org ref="libraryCong">Library of Congress</org>, <place city="D.C." state="wa" country="us">Washington, D.C.</place></source>
+    </citation>
+</document>

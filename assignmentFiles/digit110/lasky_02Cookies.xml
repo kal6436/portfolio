@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text>
+    <title recipeFor="Shrewsbury Cakes">Shrewsbury Cakes: Original Recipe.</title>
+
+    <metadata>
+        <origin>This recipe comes from MS Codex 625, a manuscript recipe book that belonged to a
+            student in a London cooking school in the early eighteenth century.</origin>
+        <info>The pastry school was owned by <person id="ek" who="Edward Kidder"
+                role="owner of pastry school 1720-1734">Edward Kidder</person>, who taught at a few
+            locations in London between around 1720 and 1734. Blank books with printed title pages
+            seem to have been used by students to write down recipes they learned. <person key="#ek"
+                >Kidder</person> also published his recipes in the printed volume, <book
+                author="#ek" publish="1720">Receipts for Pastry and Cookery</book>, in 1720.</info>
+    </metadata>
+
+    <recipeOrig>
+        <step num="1">Take a <unit id="lb">pound</unit> of fresh <ing id="bttr">butter</ing> a <unit
+                key="#lb">pound</unit> of double <ing id="rs">refind sugar</ing> sifted fine a
+            little beaten mace &amp; <ing id="egg" quant="4">4 eggs</ing> beat them all together
+            with. your hands till tis very leight &amp;</step>
+        <step num="2">looks curdling you put thereto a <ing id="flr" quant="0.5 lb"><unit key="#lb"
+                    >pound</unit> &amp; 1/2 of flower</ing> roul them out into little cakes</step>
+    </recipeOrig>
+
+    <translation>
+        <metadata>
+            <info>Our recipe (halved from the original)</info>
+            <listIng>
+                <listItm num="1">1/2 lb. (2 sticks) <ing key="#bttr" quant="0.5 lb (2 sticks)"
+                        >butter</ing>, softened.</listItm>
+                <listItm num="2"><ing id="sgr" quant="0.5 lb">sugar</ing> 1/2 <unit key="#lb"
+                        >lb</unit>.</listItm>
+                <listItm num="3"><ing id="mace" quant="0.25 tsp">mace</ing> 1/4 <unit key="#tsp"
+                        >tsp</unit>.</listItm>
+                <listItm num="4">
+                    <ing id="cinn" quant="0.5 tsp">cinnamon 1/2 <unit key="tsp">tsp</unit></ing>
+                </listItm>
+                <listItm num="5">2 <ing key="#egg" quant="2">eggs</ing>.</listItm>
+                <listItm num="6">
+                    <ing key="#flr" quant="0.75 lb">flour 3/4 <unit key="#lb">lb</unit></ing>
+                </listItm>
+            </listIng>
+        </metadata>
+        <process>
+            <step num="1">Using an <tool id="elecMix">electric mixer</tool>, cream together the <ing
+                    key="#bttr">butter</ing> and <ing key="#sgr">sugar</ing>.</step>
+            <step num="2">Then add the <ing key="#egg">eggs</ing> and <action using="#elecMix">mix
+                    at medium speed</action> until the <mix components="#bttr #sgr #egg"
+                    >mixture</mix> looks curdled.</step>
+            <step num="3">Sift together <mix components="#cinn #macea #flr">dry ingredients</mix>
+                and <action using="elecMix">add at low speed</action> until just combined. Scoop and
+                roll the <prod id="dgh" ballSize="1 tbsp">dough</prod> by hand into 1-<unit
+                    id="tbsp" name="tablespoon">tbsp</unit>. balls, then pat flat. <aside>[You could
+                    also refrigerate the <prod key="#dgh">dough</prod> until it’s firm enough to
+                    roll out on a flat surface and cut out into rounds.]</aside></step>
+            <step num="4"><action temp="350F" time="15-18 mins">Bake</action> at 350F for 15-18
+                minutes <aside>(ours were about <measure unit="inches" also="about 0.33 inches"
+                        >1/3″</measure> thick, so you could roll them thinner and have a slightly
+                    shorter cooking time)</aside>. <prod key="dgh">They’re</prod> done once they
+                turn the slightest bit brown around the edges. This halved recipe yielded <yield
+                    total="~24 cookies">about two dozen <prod id="cookies"
+                >cookies</prod>.</yield></step>
+        </process>
+        <results><intro>The Results If you like snickerdoodles (and who doesn’t?), you’d like
+                these.</intro>
+            <changeToOrig>We added the <ing key="#cinn">cinnamon</ing> because we like it and
+                couldn’t resist, and we thought it rounded out the <ing key="#mace">mace</ing>
+                nicely.</changeToOrig> These are mild, fairly soft <prod key="#cookie"
+                >cookies</prod> that are great with tea. We rolled and patted the dough into
+            individual cookies because it was too soft and stick to roll out, but a little bit more
+                <ing key="flr">flour</ing> and a stint in the fridge might make the <prod key="dgh"
+                >dough</prod> easier to work with a <tool id="rollPin">rolling pin</tool>.</results>
+    </translation>
+</text>
