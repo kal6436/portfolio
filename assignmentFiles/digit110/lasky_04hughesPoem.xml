@@ -38,6 +38,14 @@
             sought ways for <ethnicity>African Americans</ethnicity> to make their own ways within segregated society that
             it was not possible for them to change. Many white <nationality>Americans</nationality> interpreted <person ref="#bt">Washington</person>'s
             statements as an endorsement of racial segregation. </context>
+        
+
+        <stamp>A stamp is positioned to the right of the poem, and partially covers teh ends of lines 5-10. It is in red. It has this structure:
+        <structStamp form="circle" inkColor="red">
+            <perimeter loc="inside rim'">Library of Congress</perimeter>
+            <center>Inside is an image of an eagle and shield.</center>
+        </structStamp></stamp>
+        
     </info>
 
     <transcript>
@@ -56,57 +64,52 @@
             <line n="4">
                 <person ref="#bt">Booker T.</person>
             </line>
-            <line n="5">Was a practical man.</line>
+            <line n="5">Was a practical <rhyme with="land" on="line 7">man</rhyme>.</line>
             <line n="6">He said, Till the soil</line>
-            <line n="7">And learn from the land.</line>
-            <line n="8">Let down your bucket</line>
-            <stamp part="1" ref="congStamp" org="#libraryCong">the library of congress</stamp>
-            <line n="9">Where you are.</line>
-            <stamp part="2" ref="#congStamp" org="#libraryCong"/>
-            <line n="10">Your fate is here</line>
-            <stamp part="3" ref="#congStamp" org="#libraryCong"/>
-            <line n="11">And not afar.</line>
-            <stamp part="4" ref="#congStamp" org="#libraryCong"/>
-            <line n="12">To help yourself</line>
-            <stamp part="5" ref="#congStamp" org="#libraryCong"/>
-            <line n="13">And your fellow man,</line>
+            <line n="7">And learn from the <rhyme with="man" on="line 5">land</rhyme>.</line>
+            <line n="8">Let down your bucket</line><stamp/>
+            <line n="9">Where you <rhyme with="afar" on="line 11">are</rhyme>.</line><stamp/>
+            <line n="10">Your fate is here</line><stamp/>
+            <line n="11">And not <rhyme with="are" on="line 9">afar</rhyme>.</line><stamp/>
+            <line n="12">To help yourself</line><stamp/>
+            <line n="13">And your fellow <rhyme with="hand" on="line 15">man</rhyme>,</line>
             <line n="14">Train your head,</line>
-            <line n="15">Your heart, <underline>and your hand</underline>.</line>
+            <line n="15">Your heart, <underline>and your <rhyme with="man" on="line 14">hand</rhyme></underline>.</line>
             <line n="16">For smartness alone's</line>
-            <line n="17">Surely not meet—</line>
+            <line n="17">Surely not <rhyme with="eat" on="line 19">meet</rhyme>—</line>
             <line n="18">If you haven't at the same time</line>
-            <line n="19">Got something to eat.</line>
+            <line n="19">Got something to <rhyme with="meet" on="line 17">eat</rhyme>.</line>
             <line n="20">Thus at <org ref="tuskInst">Tuskegee</org></line>
-            <line n="21"><person ref="#bt">He</person> built a school</line>
+            <line n="21"><person ref="#bt">He</person> built a <rhyme with="tool" on="line 23">school</rhyme></line>
             <line n="22">With book-learning there</line>
-            <line n="23">And the workman's tool.</line>
+            <line n="23">And the workman's <rhyme with="school" on="line 21">tool</rhyme>.</line>
             <line n="24"><person ref="#bt">He</person> started out</line>
-            <line n="25">In a simple way—</line>
+            <line n="25">In a simple <rhyme with="today" on="line 27">way</rhyme>—</line>
             <line n="26">For yesterday</line>
-            <line n="27">Was <underline>not</underline> today.</line>
+            <line n="27">Was <underline>not</underline> <rhyme with="way" on="line 25">today</rhyme>.</line>
             <line n="28">Sometimes <person ref="#bt">he</person> had</line>
-            <line n="29">Compromise in <person ref="#bt">his</person> talk—</line>
+            <line n="29">Compromise in <person ref="#bt">his</person> <rhyme with="walk" on="line 31">talk</rhyme>—</line>
             <line n="30">For a man must crawl</line>
-            <line n="31">Before he can walk—</line>
+            <line n="31">Before he can <rhyme with="talk" on="line 29">walk</rhyme>—</line>
             <line n="32">And in <place state="al" country="us">Alabama</place> in <date year="1985">'85</date></line>
             <line n="33">A joker was lucky</line>
             <line n="34">To be alive.</line>
             <line n="35">But <person ref="#bt">Booker T</person>.</line>
-            <line n="36">Was nobody's fool:</line>
+            <line n="36">Was nobody's <rhyme with="tool" on="line 38">fool</rhyme>:</line>
             <line n="37">You may carve a dream</line>
-            <line n="38">With an humble tool.</line>
+            <line n="38">With an humble <rhyme with="fool" on="line 36">tool</rhyme>.</line>
             <line n="39">The tallest tower</line>
-            <line n="40">Can tumble down</line>
+            <line n="40">Can tumble <rhyme with="ground" on="line 42">down</rhyme></line>
             <line n="41">If it be not rooted</line>
-            <line n="42">In solid ground.</line>
+            <line n="42">In solid <rhyme with="down" on="line 40">ground</rhyme>.</line>
             <line n="43">So, being a far-seeing </line>
-            <line n="44">Practical man,</line>
+            <line n="44">Practical <rhyme with="hand" on="line 46">man</rhyme>,</line>
             <line n="45"><person ref="#bt">He</person> said, Train your head,</line>
-            <line n="46">Your heart, <underline>and your hand</underline>.</line>
+            <line n="46">Your heart, <underline>and your <rhyme with="man" on="line 44">hand</rhyme></underline>.</line>
             <line n="47">Your fate is here</line>
-            <line n="48">And not afar,</line>
+            <line n="48">And not <rhyme with="are" on="line 50">afar</rhyme>,</line>
             <line n="49">So let down your bucket</line>
-            <line n="50">Where you are.</line>
+            <line n="50">Where you <rhyme wtih="afar" on="line 48">are</rhyme>.</line>
         </poem>
         <credit>
             <line n="51">
