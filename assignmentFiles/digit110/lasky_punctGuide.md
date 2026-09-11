@@ -13,4 +13,5 @@
 | . | Period | Used to select a class in CSS | .body {} |
 | : | Colon | Used in CSS to assign a value to a property | color: red; |
 | , | Comma | Separate items in lists or function arguments | 
+| esc : wq | command | ues to exit vin code editor | if merge failure
 
