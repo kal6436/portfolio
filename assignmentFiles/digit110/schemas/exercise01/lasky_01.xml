@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemas/exercise01/exercise01Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <letter n="1" sender="Marian Baldwin" date="June 30, 1917"
     source="_Canteening Overseas_: 1917-1919, published 1920.">
     <!-- start using metadata headers
