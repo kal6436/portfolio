@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="rocchettiPastaSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<!-- Note from editor: Kylie Lasky
+    This recipe was collected from the OpenStove website, an open source recipe collection!
+    To gather this text I used the print ready format instead of opting to manually select text from the webpage of the recipe due to not wanting to miss information because of the site styling -->
+
+<doc><siteHead>OpenStove COMMUNITY-CRAFTED RECIPES</siteHead>
+<info><dish>Rocchetti pasta with
+Brussels sprouts, tomato,
+eggplant, and paprika</dish>
+<taste>This rocchetti pasta dish combines the earthy tastes of Brussels sprouts and eggplant with
+the tangy sweetness of tomato, all balanced by the warm undertones of paprika.</taste>
+    <timeDuration time="45" unit="min">45 min</timeDuration></info>
+<instruct><title>Instructions</title>
+    <step n="1">1. Roast the <ing type="vegetable">Vegetables</ing>
+Preheat the oven to <temp fahrenheit="400" celsius="200">400°F (200°C)</temp>.
+        Trim and halve the <ing type="vegetable">Brussels sprouts</ing>. Cube the <ing type="fruit">eggplant</ing> and <ing type="fruit">tomato</ing>.
+    Toss the <ing type="vegetable">vegetables</ing> in <ing type="liquid">olive oil</ing>, sprinkled with <ing type="seasoning">salt</ing>, <ing type="seasoning">pepper</ing>, and <ing type="seasoning">paprika</ing>.
+        Spread the <ing type="vegetable">vegetables</ing> in a single layer on a baking sheet and roast for <timeDuration timeSpan="25-30" unit="min">25-30
+minutes</timeDuration> or until they are tender and have caramelized edges.</step>
+    <step n="2">2. Cook the <ing type="starch">Pasta</ing>
+        Bring a large pot of <ing type="liquid">salted water</ing> to a rolling boil.
+Add the <ing type="starch">rocchetti pasta</ing> and cook according to the package instructions until
+al dente.
+Drain the <ing type="starch">pasta</ing>, reserving some <ing type="liquid">pasta water</ing>.</step>
+    <step n="3">3. Combine <ing type="starch">Pasta</ing> and <ing type="vegetable">Vegetables</ing>
+        In a large skillet over <temp>medium heat</temp>, combine the roasted <ing type="vegetable">vegetables</ing> with the
+        cooked <ing type="starch">pasta</ing>.
+        Add splashes of reserved <ing type="liquid">pasta water</ing> if necessary to loosen the mixture and
+create a light sauce.
+Stir gently until everything is heated through.</step>
+<step n="4">4. Finish and Serve
+Taste and adjust seasoning if necessary.
+Serve hot, garnished with freshly grated <ing type="dairy">Parmesan cheese</ing> and a sprinkle of
+    <ing type="herb">fresh herbs</ing> or additional <ing type="seasoning">paprika</ing>.</step></instruct>
+<ingList><title>Ingredients</title>
+<servings serves="1">Servings: 1</servings>
+<ing type="starch"><quant unit="ounces">2</quant> ounces rocchetti pasta</ing>
+<ing type="vegetable"><quant unit="pound">0.25</quant> pound Brussels sprouts</ing>
+<ing type="fruit"><quant unit="large">0.25</quant> large eggplant</ing>
+<ing type="fruit"><quant unit="medium">0.5</quant> medium tomatoes</ing>
+<ing type="liquid"><quant unit="tablespoon">1</quant> tablespoon olive oil</ing>
+<ing type="seasoning"><quant unit="teaspoon">0.5</quant> teaspoon paprika</ing>
+<ing type="seasoning"><quant unit="pinch">Pinch</quant> of salt and pepper to taste</ing>
+<ing type="dairy">Parmesan cheese, for garnish</ing>
+<ing type="herb">Fresh herbs (e.g., basil, parsley),
+for garnish</ing></ingList>
+<metadata>anonymous <datePublished when="2024116">Jan 16, 2024</datePublished>
+<dateAccessed when="26229">9/22/26, 4:45 PM</dateAccessed> <dish>Rocchetti pasta with Brussels sprouts, tomato, eggplant, and paprika</dish> | <site>OpenStove</site>
+<url>https://openstove.org/recipes/rocchetti-pasta</url> <pageNum>1/2</pageNum></metadata>
+<notes><title>Recipe notes</title>
+<note n="1">The <ing type="vegetable">vegetables</ing> can be roasted ahead of time and refrigerated, then quickly
+reheated with the <ing type="starch">pasta</ing> for a faster meal.</note>
+<note n="2">For an extra punch of flavor, consider adding <ing type="vegetable">minced garlic</ing> or <ing type="seasoning">red pepper flakes</ing>
+to the <ing type="vegetable">vegetables</ing> before roasting.</note>
+<note n="3"><ing type="starch">Rocchetti pasta</ing> can be replaced with other <ing type="starch">pasta</ing> shapes, such as <ing type="starch">fusilli</ing> or
+<ing type="starch">farfalle</ing>, which also catch pieces of the <ing type="vegetable">vegetables</ing> well.</note>
+<note n="4">For a vegan version, omit the <ing type="dairy">Parmesan cheese</ing> or use a <ing type="vegan alt">vegan cheese</ing> alternative</note>.</notes>
+<metadata><site>OpenStove</site> <url>openstove.org/recipes/rocchetti-pasta</url>
+<dateAccessed when="26229">9/22/26, 4:45 PM</dateAccessed> <dish>Rocchetti pasta with Brussels sprouts, tomato, eggplant, and paprika</dish> | <site>OpenStove</site>
+<url>https://openstove.org/recipes/rocchetti-pasta</url> <pageNum>2/2</pageNum></metadata>
+</doc>
