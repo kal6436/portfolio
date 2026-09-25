@@ -1,0 +1,32 @@
+/* fonts */
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background: #FBF6EC;
+    display: flex;
+    flex-direction: column;
+}
+
+/* nav menu */
+
+
+/* body content */
+/* hero */
+.hero {
+    background-color: #E3AA3E;
+}
+
+
+
+/* img styling */
+
+/* footer */
+.footer {
+    background-color: #2E2013;
+    display: flex;
+}
