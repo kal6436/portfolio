@@ -219,6 +219,45 @@ nav a {
     }
 }
 
+/* Button Styling */
+button {
+  background-color: #e3aa3d;
+  color: #2e2013;
+  padding: 15px 20px;
+  border: none;
+  border-radius: 3px;
+  font-size: 14px;
+    cursor: pointer;
+}
+  
+.popup {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.popup-content {
+  background-color: white;
+  width: 80%;
+  max-width: 500px;
+  margin: 10% auto;
+  padding: 30px;
+  position: relative;
+}
+
+.close-button {
+  background-color: #e3aa3d;
+  color: #2e2013;
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 24px;
+}
+
 .bodyContent section div {
     padding-bottom: 50px;
 }
