@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Toggle Span Demo</title>
+<script type="text/javascript" src="spanScript.js" defer></script>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 60px auto;
+    line-height: 1.6;
+    color: #28140D;
+  }
+
+  span.toggle-span {
+    cursor: pointer;
+    color: #B3540C;
+    text-decoration: underline dotted;
+  }
+
+  span.toggle-span.on {
+    background-color: #E3AA3D;
+    color: #28140D;
+    text-decoration: none;
+    border-radius: 4px;
+    padding: 0 4px;
+  }
+</style>
+</head>
+<body>
+
+  <h1>Toggle Span Demo</h1>
+  <p>Click any <span class="toggle-span">highlighted</span> word below to toggle it on and off.</p>
+
+  <p>
+    The <span class="toggle-span">quick</span> brown
+    <span class="toggle-span">fox</span> jumps over the
+    <span class="toggle-span">lazy</span> dog.
+  </p>
+</body>
+</html>
