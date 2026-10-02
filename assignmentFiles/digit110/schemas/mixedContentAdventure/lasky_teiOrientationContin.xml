@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Drafts of Langston Hughes's poem "Ballad of Booker T.," 30 May-1 June 1941.</title>
+            <author>Langston Hughes</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+            <p>30-31 May 1941 (first and second drafts); 1 June 1</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+            <p>Drafts of Langston Hughes's poem "Ballad of Booker T.," 30 May–1 June 1941.
+               (Langston Hughes Collection) Manuscript Division, Library of Congress, Washington, D.C</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>
+            <l n="1">BALLAD OF BOOKER T.</l>
+            <l n="2">by</l>
+            <l n="3"><name type="person">Langston Hughes</name></l>
+            <l n="4"><name type="person">Booker T.</name></l>
+         </head>
+         <lg type="ballad" n="2">
+            <l n="5" rhyme="a">Was a practical <rhyme>man</rhyme>.</l>
+            <l n="6">He said, Till the soil</l>
+            <l n="7" rhyme="a">And learn from the <rhyme>land</rhyme>.</l>
+            <l n="8">Let down your bucket</l>
+            <l n="9" rhyme="b">Where you <rhyme>are</rhyme>.</l>
+            <l n="10">Your fate is here</l>
+            <l n="11" rhyme="b">And not <rhyme>afar</rhyme>.</l>
+            <l n="12">To help yourself</l>
+            <l n="13" rhyme="a">And your fellow <rhyme>man</rhyme>,</l>
+            <l n="14">Train your head,</l>
+            <l n="15" rhyme="a">Your heart, <emph>and your <rhyme>hand</rhyme></emph>.</l>
+            <l n="16">For smartness alone's</l>
+            <l n="17" rhyme="c">Surely not <rhyme>meet</rhyme>—</l>
+            <l n="18">If you haven't at the same time</l>
+            <l n="19" rhyme="c">Got something to <rhyme>eat</rhyme>.</l>
+            <l n="20">Thus at Tuskegee</l>
+            <l n="21" rhyme="d">He built a <rhyme>school</rhyme></l>
+            <l n="22">With book-learning there</l>
+            <l n="23" rhyme="d">And the workman's <rhyme>tool</rhyme>.</l>
+            <l n="24">He started out</l>
+            <l n="25" rhyme="e">In a simple <rhyme>way</rhyme>—</l>
+            <l n="26">For yesterday</l>
+            <l n="27" rhyme="e">Was <emph>not</emph> <rhyme>today</rhyme>.</l>
+            <l n="28">Sometimes he had</l>
+            <l n="29" rhyme="f">Compromise in his <rhyme>talk</rhyme>—</l>
+            <l n="30">For a man must crawl</l>
+            <l n="31" rhyme="f">Before he can <rhyme>walk</rhyme>—</l>
+            <l n="32" rhyme="g">And in Alabama in <rhyme>'85</rhyme></l>
+            <l n="33">A joker was lucky</l>
+            <l n="34" rhyme="g">To be <rhyme>alive</rhyme>.</l>
+            <l n="35">But Booker T.</l>
+            <l n="36" rhyme="d">Was nobody's <rhyme>fool</rhyme>:</l>
+            <l n="37">You may carve a dream</l>
+            <l n="38" rhyme="d">With an humble <rhyme>tool</rhyme>.</l>
+            <l n="39">The tallest tower</l>
+            <l n="40" rhyme="h">Can tumble <rhyme>down</rhyme></l>
+            <l n="41">If it be not rooted</l>
+            <l n="42" rhyme="h">In solid <rhyme>ground</rhyme>.</l>
+            <l n="43">So, being a far-seeing </l>
+            <l n="44" rhyme="a">Practical <rhyme>man</rhyme>,</l>
+            <l n="45">He said, Train your head,</l>
+            <l n="46" rhyme="a">Your heart, <emph>and your <rhyme>hand</rhyme></emph>.</l>
+            <l n="47">Your fate is here</l>
+            <l n="48" rhyme="b">And not <rhyme>afar</rhyme>,</l>
+            <l n="49">So let down your bucket</l>
+            <l n="50" rhyme="b">Where you <rhyme>are</rhyme>.</l>
+         </lg>
+         <lg n="3">
+            <l n="51"><name type="person">LANGSTON HUGHES</name></l>
+            <l n="52">Final Draft,</l>
+            <l n="53"><address><addrLine>Hollow Hills Farm,</addrLine></address></l>
+            <l n="54"><address><addrLine>Monterey, California,</addrLine></address></l>
+            <l n="55"><date when="1941-06-01">June 1, 1941</date>.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>
