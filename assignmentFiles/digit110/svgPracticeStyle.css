@@ -1,0 +1,113 @@
+:root {
+    --yellow: #ff0;
+    --aqua: #00cfff;
+    --blue: #00f;
+    --pink: #ffc0cb;
+    --purple: #800080;
+    --teal: #5adbab;
+    --transparent: #5adbab00;
+}
+
+/* fill rules */
+#yellowCircle {
+    fill: var(--yellow);
+}
+#aquaRect {
+    stroke: var(--aqua);
+    fill: var(--transparent);
+}
+#tealRect {
+    stroke: var(--teal);
+    fill: var(--transparent);
+}
+#blueLine {
+    stroke: var(--blue);
+    fill: none;
+}
+#pinkCircle {
+    stroke: var(--pink);
+    fill: var(--transparent);
+}
+#purpleCircle {
+    fill: var(--purple);
+}
+
+/* transitions */
+#yellowCircle,
+#pinkCircle,
+#purpleCircle {
+    transition: all 3s ease-in-out;
+}
+
+#aquaRect,
+#tealRect,
+#blueLine {
+    transition: all 2s ease-out;
+}
+
+/* hover effects */
+svg:hover #purpleCircle{
+    transform:translate(-50%, -10%)
+}
+
+svg:hover #pinkCircle{
+    transform:translate(40%, -40%)
+}
+
+svg:hover #yellowCircle{
+    fill: var(--teal)
+}
+
+svg:hover #aquaRect{
+    stroke:var(--yellow)
+}
+
+svg:hover #tealRect {
+stroke:var(--aqua);
+fill:var(--purple);
+}
+
+svg:hover #pinkCirlce {
+    transform:translate(40%, -40%);
+    transform:scale(140%);
+}
+
+svg:hover #aquaRect {
+    stroke:var(--yellow);
+    transform:scale(150%);
+}
+
+svg:hover #yellowCircle {
+    fill:var(--teal);
+    transform:scale(110%);
+}
+
+svg:hover #tealRect {
+    stroke:var(--aqua);
+    fill:var(--purple);
+    transform:scale(75%);
+}
+
+svg:hover #yellowCircle {
+    fill:var(--teal);
+    transform:scale(110%);
+    transform-origin:center;
+}
+
+svg:hover #tealRect{
+    stroke:var(--aqua);
+    fill:var(--purple);
+    transform:scale(75%);
+    transform-origin:center;
+}
+
+svg:hover #aquaRect{
+    stroke:var(--yellow);
+    transform:rotate(360deg);
+    transform-origin:right;
+}
+
+svg:hover #blueLink{
+    transform-origin:center;
+    transform:rotate(-180deg);
+}

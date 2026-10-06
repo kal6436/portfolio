@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SVG Practice</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="svgPracticeStyle.css" />
+    </head>
+    <body>
+        <svg viewBox="0 0 50 50">
+            <rect width="10" height="10" fill="yellow">
+                <animate attributeName="rx" values="0;20;0" dur="2s" repeatCount="10" />
+            </rect>
+        </svg>
+        <!-- following Mia's tutorial -->
+            <svg width="350" height="300" viewBox="0 0 115 115" fill="none" xmlns="http://www.w3.org/2000/svg">
+                 <circle id="yellowCircle" cx="57.5" cy="57.5" r="50"/>  
+                 <rect id="aquaRect" x="5" y="10" rx="10" ry="10" width="70" height="25" stroke-width="6" stroke="#00CFFF"/>
+                 <rect id="tealRect" x="50" y="20" rx="10" ry="10" width="60" height="70" stroke-width="5" stroke="#5adbab"/>  
+                <path id="blueLine" d="M10,63 Q40,85 60,60 T105,63" stroke-width="5" stroke="blue"/>
+                 <ellipse id="pinkCircle" cx="35" cy="78" rx="20" ry="25" stroke-width="3" stroke="pink"/>
+                <circle id="purpleCircle" cx="91.5" cy="90" r="20"/>
+           </svg>
+    </body>
+</html>
+
