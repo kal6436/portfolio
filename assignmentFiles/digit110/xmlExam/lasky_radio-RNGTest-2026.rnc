@@ -1,0 +1,46 @@
+#RNG Schema corrected by Kylie Lasky | github: kal6436
+start = xml
+xml = element xml {heading , body} #changed or contraint to comma
+heading = element heading {title, byline, listNames}
+title = element title {text} #allowed text inside of title
+byline = element byline {mixed{author, pubTitle, date}} #set byline content to mixed
+author = element author {text} 
+pubTitle = element pubTitle {text} 
+listNames = element listNames {person+, org+, tech+} #set org to allow multiple instances of it in the content
+person = element person {role, id, name} #swapped text with name element in allowed content
+org = element org {role, id, name}
+tech = element tech {role, id, name, source}
+role = attribute role {"investigator" | "navigator" | "pilot" | "search" | "flight" | "research" | "news"} #set role to attribute instead of element
+id = attribute id {xsd:ID} #Defined ID
+name = element name {text}
+source = element source {url, empty}
+url = attribute url {xsd:anyURI} #defined url attribute to contain any url
+body = element body {intro, section*} #added intro element, then allowed for multiple instances of section
+intro = element intro {p+}
+section = element section {subtitle, p*} #allowed for multiple instances of p
+subtitle = element subtitle {text} #defined subtitle
+p = element p {mixed{(timelapse | date | place | mention | radioFreq | message)*}} #changed to mixed content
+radioFreq = element radioFreq {text}
+timelapse = element timelapse {dur, text} #added dur attribute
+dur = attribute dur {text} #defined dur and set content to text (could not tell if this is meant to be a unique xsd code
+date = element date {when?, from?, to?, text} #changed when to occur 0 or 1 times in the content
+when = attribute when {xsd:date | xsd:gYearMonth | xsd:gYear} #defined when
+from = attribute from {xsd:date | xsd:gYearMonth | xsd:gYear} #defined from
+to = attribute to {xsd:date | xsd:gYearMonth | xsd:gYear} #defined to
+place = element place {text}
+mention = element mention {ref, text} 
+ref = attribute ref {xsd:IDREF}
+message = element message {type?, text} #added attribute type then set it's occurance to 0 or 1
+type= attribute type {text}
+
+
+
+
+
+
+
+
+
+
+
+
