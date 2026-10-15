@@ -1,0 +1,781 @@
+[
+	{
+		"id": "http://zotero.org/groups/6656794/items/3BNH592B",
+		"type": "book",
+		"abstract": "Take generative AI applications from prototype to production by mastering LLM architectures, evaluation strategies, LLMOps workflows, and deployment pipelines, using proven approaches to build reliable, secure, and scalable systems Free with your book: DRM-free PDF version + access to Packt's next-gen Reader* Key Features Learn how to take generative AI apps from prototype to production Apply evaluation, LLMOps, and SRE practices for reliable systems Design scalable architectures using modern AI engineering patterns Book Description Build production-ready generative AI applications by moving beyond prototypes and applying proven engineering principles. This book shows you how to design, evaluate, deploy, and scale AI systems that remain reliable, secure, and maintainable in real-world environments. Vibe-coding tools and coding assistants make it easy to create prototypes, but taking them into production is where most teams struggle. Written by a Staff AI Engineer at Google, this book guides you through scoping use cases, aligning them with business goals, and scaling generative AI adoption. You'll learn how to evaluate LLMs using offline metrics, human-in-the-loop approaches, and statistical testing, as well as how to design architectures such as RAG, vector databases, agents, and memory systems. You'll also understand how to operationalize these systems with production-grade code, testing practices, and DevOps, MLOps, and LLMOps workflows. The book covers deployment, scaling, and key considerations for security, Responsible AI, observability, and reliability. By the end of this book, you will be able to design, deploy, and maintain scalable generative AI applications, run A/B tests to measure impact, and apply durable engineering principles so your systems succeed beyond the prototype stage. *Email sign-up and proof of purchase required What you will learn Design end-to-end generative AI product workflows Build and evaluate AI systems with robust metrics Implement production-ready code and testing practices Apply LLMOps and automation for AI deployments Architect scalable systems using modern AI patterns Improve reliability with observability and SRE practices Run A/B tests to measure product impact effectively Who this book is for Technical leaders, AI engineers, data scientists, software engineers, and architects building generative AI applications. Engineering managers, product leaders, and decision-makers seeking to deploy, scale, and maintain production-grade AI systems will also benefit",
+		"call-number": "NA2728",
+		"edition": "First Edition",
+		"ISBN": "978-1-80667-864-8",
+		"note": "OCLC: 1578999611",
+		"number-of-pages": "1",
+		"publisher": "Packt Publishing",
+		"publisher-place": "Birmingham",
+		"source": "Library Catalog (Blacklight)",
+		"title": "Architecting generative AI applications: build, deploy, and scale production-ready generative AI systems with LLMOps best practices",
+		"title-short": "Architecting generative AI applications",
+		"author": [
+			{
+				"family": "Kuligin",
+				"given": "Leonid"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/R8CQ7KTF",
+		"type": "article-journal",
+		"abstract": "This article examines the rise of “vibe coding” in 2025, highlighting its immediate impact on software creation, prototyping, and accessibility for nontechnical users. We explore the associated risks, limitations, implications on productivity, security, and team collaboration. The ability to use prompts and natural language descriptions to automatically generate code is novel.",
+		"language": "en",
+		"source": "www.computer.org",
+		"title": "Is Vibe Coding the Future of Software?",
+		"URL": "https://www.computer.org/csdl/magazine/co/2026/03/11404330/2egupD6sL1C",
+		"author": [
+			{
+				"family": "Kshetri",
+				"given": "Nir"
+			},
+			{
+				"family": "Voas",
+				"given": "Jeffrey"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/DVCPSAL8",
+		"type": "webpage",
+		"abstract": "In this post, we explore some real-world examples from our red team efforts, showing how vibe coding can lead to serious vulnerabilities. We also demonstrate some methodologies for prompting practices which can help mitigate these risks.",
+		"container-title": "Databricks",
+		"language": "en-US",
+		"title": "Passing the Security Vibe Check: The Dangers of Vibe Coding",
+		"title-short": "Passing the Security Vibe Check",
+		"URL": "https://www.databricks.com/blog/passing-security-vibe-check-dangers-vibe-coding",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					8,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/VQQKHEYX",
+		"type": "post-weblog",
+		"abstract": "Configuration and prompting tips to get an AI assistant to write more secure code.",
+		"language": "en-US",
+		"title": "A practical guide to secure vibe-coding for small businesses | Kaspersky official blog",
+		"URL": "https://www.kaspersky.com/blog/safer-vibe-coding-2026/55677/?utm_source=gemini",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/WKW7TANQ",
+		"type": "webpage",
+		"abstract": "Vibe coding is fast — but fast means nothing if you ship vulnerabilities. Learn how to use AI to write secure code without slowing your team down.",
+		"language": "en",
+		"title": "Secure Vibe Coding: Ship Fast Without the Security Risks",
+		"title-short": "Secure Vibe Coding",
+		"URL": "https://www.securityjourney.com/post/secure-vibe-coding-how-to-use-ai-to-write-code-without-shipping-vulnerabilities",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/JJ4MGJMY",
+		"type": "post-weblog",
+		"abstract": "How using BMAD for vibe coding has opened my eyes",
+		"container-title": "Women in Technology",
+		"language": "en",
+		"title": "My Thoughts on Vibe Coding Have Evolved",
+		"URL": "https://medium.com/womenintechnology/my-thoughts-on-vibe-coding-have-evolved-7912d2df0300",
+		"author": [
+			{
+				"family": "Villela",
+				"given": "Adriana"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					3,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/3AEL28T9",
+		"type": "post-weblog",
+		"abstract": "AI-generated code is accelerating software development, but 62% of AI-built applications still ship with critical security vulnerabilities.",
+		"container-title": "OX Security",
+		"language": "en-US",
+		"title": "Vibe Coding Security: Why 62% Of AI-Generated Code Ships With Vulnerabilities",
+		"title-short": "Vibe Coding Security",
+		"URL": "https://www.ox.security/blog/vibe-coding-security/",
+		"author": [
+			{
+				"family": "Security",
+				"given": "O. X."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					5,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/SJDJT6JV",
+		"type": "webpage",
+		"abstract": "Vibe coding lets developers skip the design file entirely. The traditional design handoff is over. Here is what UX designers do now to stay relevant.",
+		"container-title": "UX Tools",
+		"language": "en",
+		"title": "Vibe Coding and UX Design: The Handoff Is Dead, Now What? | UX Tools Blog",
+		"title-short": "Vibe Coding and UX Design",
+		"URL": "https://ux.tools/blog/vibe-coding-ux-design-handoff/",
+		"author": [
+			{
+				"family": "Tools",
+				"given": "U. X."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					5,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/597IRFWF",
+		"type": "webpage",
+		"abstract": "TL;DR:    Research suggests vibe coding, using AI for code generation, has notable issues...",
+		"container-title": "DEV Community",
+		"language": "en",
+		"title": "The Hidden Dangers of Vibe Coding",
+		"URL": "https://dev.to/pachilo/the-hidden-dangers-of-vibe-coding-3ifi",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					3,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/J9BY4HPI",
+		"type": "webpage",
+		"title": "How to vibe code a website: 9-step beginner's guide",
+		"URL": "https://www.wix.com/blog/how-to-vibe-code-a-website",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/NE9TGZCH",
+		"type": "webpage",
+		"abstract": "Thanks to vibe coding, AI-generated code continues to comprise a larger share of real-world codebases. This has caused not just an overall increase in security vulnerabilities, but an interesting evolution of the specific kinds of security issues we're seeing.",
+		"language": "en",
+		"title": "Vibe Coding Security Risks Aren’t Like Ordinary Security Risks | IBM",
+		"URL": "https://www.ibm.com/think/insights/vibe-coding-security-risks",
+		"author": [
+			{
+				"family": "Bergmann",
+				"given": "Dave"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					6,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/4SADDKK9",
+		"type": "book",
+		"abstract": "\"Science fiction is now reality. Programmers no longer need to toil over code and syntax. They can now describe what they want and watch it materialize instantly. Welcome to the future-Vibe Coding. In this groundbreaking book, industry veterans Steve Yegge (Google, Amazon, Sourcegraph) and WSJ bestselling author Gene Kim (The Phoenix Project and The DevOps Handbook) reveal how vibe coding is transforming software development as we know it. By leveraging the power of AI assistance-where intent and flow matter more than syntax-developers can achieve unprecedented levels of productivity, creativity, and joy. Drawing from decades of combined experience in software engineering and developer productivity, Yegge and Kim demonstrate how Vibe Coding enables developers to: Transform complex programming challenges into fluid conversations with GenAI. Build more ambitious projects faster while maintaining code quality you can be proud of. Achieve incredible things yourself that otherwise would require a team. Master the art of co-creating with your AI companion. Break free from traditional programming constraints such as syntax and setup. Build confidently in multiple programming languages and frameworks you've never used before. But this isn't just about coding faster-it's about fundamentally changing how we approach software development. The authors share practical strategies for implementing GenAI-powered development in real-world scenarios, from small projects to enterprise-scale applications, while maintaining the engineering excellence that modern systems demand. Whether you're a seasoned developer looking to stay ahead of the AI revolution, a technical leader guiding your team through this transformation, a former coder returning after a break, or someone just starting their career, this handbook provides the roadmap you need to thrive in the new era of software development. Don't get left behind in the biggest transformation our industry has seen since the internet revolution. Learn how to harness the power of vibe coding and unlock your full potential as a developer. \"-- Provided by publisher",
+		"call-number": "QA76.76.D47 K557 2025",
+		"edition": "First edition",
+		"ISBN": "978-1-966280-02-6",
+		"note": "OCLC: 1531987508",
+		"number-of-pages": "339",
+		"publisher": "IT Revolution",
+		"publisher-place": "Portland, OR",
+		"source": "Library Catalog (Blacklight)",
+		"title": "Vibe coding: building production-grade software with GenAI, chat, agents, and beyond",
+		"title-short": "Vibe coding",
+		"author": [
+			{
+				"family": "Kim",
+				"given": "Gene"
+			},
+			{
+				"family": "Yegge",
+				"given": "Steve"
+			},
+			{
+				"family": "Amodei",
+				"given": "Dario"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/XG84C4ZZ",
+		"type": "motion_picture",
+		"abstract": "This course introduces you to no-code web development with Windsurf and Vibe coding, guiding you step-by-step to bring your website ideas to life. The early modules cover the basics of Vibe coding, familiarizing you with the interface, tools, and principles behind Windsurf. You'll set up your workspace, navigate key features, and create your first website, progressing from simple concepts to more complex functionality. As you advance, you'll apply your learning in a hands-on project, turning a concept into a fully functional website. Each stage focuses not only on technical web design skills but also on creative problem-solving for real-world challenges. The course emphasizes the importance of publishing your website with Vercel, allowing you to easily launch and manage your site online. The final section delves into more advanced topics, like AI tools such as Claude, GPT, and Gemini, exploring their role in web design and development. You'll also get tips on troubleshooting bugs, making live website adjustments, and enhancing the user experience. By the course's end, you'll be equipped with the knowledge to confidently create and maintain websites--all without writing any code. To access the supplementary materials, scroll down to the 'Resources' section above the 'Course Outline' and click 'Supplemental Content.' This will either initiate a download or redirect you to GitHub. What you will learn Build functional websites using Windsurf and Vibe coding Navigate and utilize no-code tools for web development Design and deploy websites using Vercel Solve common web design issues and troubleshoot bugs Integrate AI tools like Claude, GPT, and Gemini in web projects Manage live websites and make continuous improvements Audience This course is perfect for beginners who are interested in web design but have little to no coding experience. It's also suitable for entrepreneurs, marketers, or anyone who wants to build a website without the need for technical expertise. No prerequisites are required, though a basic understanding of design principles is helpful. About the Author Cristian Doru Barin: Cristian Doru Barin is a professional web and app designer with a decade of experience and an Adobe Certified Instructor. A self-taught designer, he has gained the trust of over 290,000 students worldwide through his top-rated Photoshop courses, known for their hands-on, results-driven approach. Starting as a freelance web designer, he built a loyal client base, earning over $50,000 part-time before launching his own Android design studio. His apps now have over 100 million downloads. Passionate about education, Chris shares real-world insights to help students master design and build successful careers",
+		"call-number": "TK5105.888",
+		"note": "edition: First edition\nISBN: 9781806382118\nnumber-of-pages: 1\nOCLC: 1530940838",
+		"publisher": "Packt Publishing",
+		"publisher-place": "Birmingham, United Kingdom",
+		"source": "Library Catalog (Blacklight)",
+		"title": "Vibe coding with Windsurf: web design with no code for beginners",
+		"title-short": "Vibe coding with Windsurf",
+		"director": [
+			{
+				"family": "Barin",
+				"given": "Cristian Doru"
+			}
+		],
+		"contributor": [
+			{
+				"literal": "Packt Publishing"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/7ERGCZEJ",
+		"type": "article-magazine",
+		"abstract": "As developers increasingly lean on AI-generated code to build out their software—as they have with open source in the past—they risk introducing critical security failures along the way.",
+		"container-title": "Wired",
+		"ISSN": "1059-1028",
+		"language": "en-US",
+		"note": "section: tags",
+		"source": "www.wired.com",
+		"title": "Vibe Coding Is the New Open Source—in the Worst Way Possible",
+		"URL": "https://www.wired.com/story/vibe-coding-is-the-new-open-source/",
+		"author": [
+			{
+				"family": "Newman",
+				"given": "Lily Hay"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					10,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/HWJPAWC3",
+		"type": "entry-encyclopedia",
+		"abstract": "Vibe coding is software development assisted by artificial intelligence (AI) where the software developer describes a project or task in a prompt to a large language model (LLM) which generates source code automatically. Vibe coding may involve accepting AI-generated code without thorough review of the output, instead relying on results and follow-up prompts to guide changes.\nThe term was coined in February 2025 by computer scientist Andrej Karpathy, a co-founder of OpenAI and former AI leader at Tesla. In March 2025, Merriam-Webster listed the term as a \"slang & trending\" expression. It was also named the Collins English Dictionary Word of the Year for 2025.\nAdvocates of vibe coding say it allows amateur programmers to produce software without the extensive training and skills required for software engineering. Critics say there is a lack of accountability, maintainability, and an increased risk of introducing security vulnerabilities in the resulting software.",
+		"container-title": "Wikipedia",
+		"language": "en",
+		"license": "Creative Commons Attribution-ShareAlike License",
+		"note": "Page Version ID: 1372441984",
+		"source": "Wikipedia",
+		"title": "Vibe coding",
+		"URL": "https://en.wikipedia.org/w/index.php?title=Vibe_coding&oldid=1372441984",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					8,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/9W8RGRLX",
+		"type": "song",
+		"abstract": "Ever since Andrej Karpathy first tweeted it, \"vibe coding\" has been on every software developer's mind. Join Ben Lorica and Steve Yegge to find out what vibe coding means, especially in a professional context. Going beyond the current memes, what will the future of software development look like when we have multiple agents? And how do you prepare for it? Don't push back against AI now; lean into it. About the Generative AI in the Real World podcast: In 2023, ChatGPT put AI on everyone's agenda. In 2025, the challenge will be turning those agendas into reality. In Generative AI in the Real World, Ben Lorica interviews leaders who are building with AI. Learn from their experience to help put AI to work in your enterprise",
+		"call-number": "Q335",
+		"event-place": "Sebastopol, California",
+		"note": "edition: First edition\nnumber-of-pages: 1\nOCLC: 1514302554",
+		"publisher": "O'Reilly Media, Inc",
+		"source": "Library Catalog (Blacklight)",
+		"title": "Generative AI in the real world. Vibe coding with Steve Yegge",
+		"author": [
+			{
+				"family": "Lorica",
+				"given": "Ben"
+			},
+			{
+				"family": "Yegge",
+				"given": "Steve"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/7ZGYYVD5",
+		"type": "book",
+		"abstract": "AI is transforming software development, shifting programmers from writing code to collaborating with AI in an intent-driven workflow. Vibe coding--a prompt-first, exploratory approach where you describe what you want in natural language and let a large language model fill in the blanks--represents a radical shift in the developer's role from writing code todirecting it. However, vibe coding comes with a serious caveat: Like a high-speed exploratory vehicle, it can take you off the beaten path quickly. Beyond Vibe Coding: From Coder to AI-Era Developer explores how AI-powered coding assistants like GitHub Copilot and OpenAI Codex are reshaping the way we build software, from automating routine coding tasks to influencing architecture and design decisions. Written by Addy Osmani, this guide provides developers, tech leads, and organizations with practical strategies to integrate AI into their workflows effectively. Learn how to formulate clear goals and constraints for the AI, review AI-generated code critically, and integrate those pieces into a coherent whole. Whether you're adopting AI tools today or preparing for the future of software engineering, this book offers insights and hands-on examples to keep your skills sharp in this evolving landscape. Understand how AI-assisted development is reshaping programming Master techniques for refining, validating, and debugging AI-generated code, and understand how and why LLM generations can go wrong Explore multiagent coding systems and AI-driven software workflows Future-proof your career by adapting to AI's growing role in development",
+		"call-number": "QA76.76.D47",
+		"edition": "1",
+		"ISBN": "979-8-3416-3473-2",
+		"note": "OCLC: 1533704936",
+		"number-of-pages": "1",
+		"publisher": "O'Reilly Media Inc",
+		"publisher-place": "Place of publication not identified",
+		"source": "Library Catalog (Blacklight)",
+		"title": "Beyond Vibe Coding",
+		"author": [
+			{
+				"family": "Osmani",
+				"given": "Addy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/DXSFF58J",
+		"type": "webpage",
+		"abstract": "Secure coding, also referred to as secure programming, is the practice of writing source code that can defend against cyberattacks from threat actors. Embedding security into code helps limit vulnerabilities, creating software that’s robust and resilient enough to resist cyberthreats.",
+		"language": "en",
+		"title": "What Is Secure Coding? | IBM",
+		"title-short": "What Is Secure Coding?",
+		"URL": "https://www.ibm.com/think/topics/secure-coding",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					10,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					3,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/2N7AGQ4R",
+		"type": "webpage",
+		"abstract": "Vibe Coding is a fresh take in coding where users express their intention using plain speech, and the AI transforms that thinking into executable code. The goal of Vibe Coding is to create an AI powered development environment where AI agents serve as coding assistants making suggestions in real time, automating tedious processes, and even producing standard codebase structures.",
+		"language": "en",
+		"title": "What is Vibe Coding? | IBM",
+		"title-short": "What is Vibe Coding?",
+		"URL": "https://www.ibm.com/think/topics/vibe-coding",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					10,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					4,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/S9WP5YU4",
+		"type": "webpage",
+		"abstract": "A hands-on comparison of 8 vibe coding security scanners: VibeCheck, Vibe App Scanner, Aikido, ChakraView, amihackable.dev, and more.",
+		"container-title": "DEV Community",
+		"language": "en",
+		"title": "I Tested Every Vibe Coding Security Scanner (2026). Here's What Actually Works.",
+		"URL": "https://dev.to/solobillions/i-tested-every-vibe-coding-security-scanner-2026-heres-what-actually-works-p9k",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					10,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					3,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/YQMAJKYB",
+		"type": "webpage",
+		"abstract": "A hands-on comparison of 8 vibe coding security scanners: VibeCheck, Vibe App Scanner, Aikido, ChakraView, amihackable.dev, and more.",
+		"container-title": "DEV Community",
+		"language": "en",
+		"title": "I Tested Every Vibe Coding Security Scanner (2026). Here's What Actually Works.",
+		"URL": "https://dev.to/solobillions/i-tested-every-vibe-coding-security-scanner-2026-heres-what-actually-works-p9k",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					10,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					3,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/CRTS3D79",
+		"type": "webpage",
+		"title": "Vibe Coding Vulnerability Scanner - AI-Powered Security for Modern Development | VibeSecurity",
+		"URL": "https://vibesecurity.net/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					10,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/VHV2VRGD",
+		"type": "software",
+		"abstract": "A curated list of vibe security resources, tools, and training for securing AI-generated code and mastering vibe penetration testing.",
+		"note": "original-date: 2026-03-21T05:55:20Z",
+		"source": "GitHub",
+		"title": "vibsecurity/Awesome-Vibe-Security",
+		"URL": "https://github.com/vibsecurity/Awesome-Vibe-Security",
+		"author": [
+			{
+				"family": "Academy",
+				"given": "Vibe Security"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					10,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					8,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/WJHV8ENL",
+		"type": "post-weblog",
+		"abstract": "Application Security for the AI Era | Veracode",
+		"container-title": "Veracode",
+		"language": "en-US",
+		"title": "We Asked 100+ AI Models to Write Code. Here’s How Many Failed Security Tests.",
+		"URL": "https://www.veracode.com/blog/genai-code-security-report/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					10,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					7,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/4GRQI68W",
+		"type": "webpage",
+		"abstract": "Is vibe coding bad? A balanced look at productivity vs security risks in AI-generated apps, with real examples, research data and a vibe coding security checklist.",
+		"container-title": "Nurbak",
+		"language": "en",
+		"title": "Is Vibe Coding Bad? Security Risks & Checklist (2026)",
+		"title-short": "Is Vibe Coding Bad?",
+		"URL": "https://nurbak.com/en/blog/vibe-coding-security/",
+		"author": [
+			{
+				"family": "Delgado",
+				"given": "Fabian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					10,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					6,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/LVER3AJJ",
+		"type": "motion_picture",
+		"abstract": "In this 4-hour course, you will learn how to build secure applications while using AI coding assistants by combining proven application security principles with modern AI-assisted development workflows. Through practical demonstrations and real-world examples, you'll gain the skills to identify vulnerabilities, validate AI-generated code, and integrate security throughout the software development lifecycle. What I will be able to do after this course Apply secure coding practices to AI-generated code. Perform threat modeling during application development. Implement secure authentication using ASP.NET Core Identity. Protect applications through secrets and dependency management. Validate AI-generated code using security testing. Course Instructor(s) Trevoir Williams is a software and systems engineer, lecturer, and author with over a decade of teaching experience. Holding a Master's degree in Computer Science and Microsoft Azure certifications, he specializes in web development, cloud systems, databases, and server administration. He combines industry expertise with practical, hands-on instruction to help developers build secure and scalable software. Who is it for? This course is ideal for software developers, .NET developers, application security engineers, DevSecOps practitioners, technical leads, and AI-assisted developers who want to build secure applications with modern coding assistants. It is suited for professionals seeking practical guidance on secure coding, threat modeling, authentication, AI code review, and secure software delivery, with basic knowledge of C#, .NET, and web development recommended",
+		"call-number": "QA76.76.A65",
+		"note": "edition: First edition\nISBN: 9781808651052\nnumber-of-pages: 1\nOCLC: 1606239036",
+		"publisher": "Packt Publishing",
+		"publisher-place": "Birmingham, United Kingdom",
+		"source": "Library Catalog (Blacklight)",
+		"title": "Application security essentials for Vibe coders",
+		"director": [
+			{
+				"family": "Williams",
+				"given": "Trevoir"
+			}
+		],
+		"contributor": [
+			{
+				"literal": "Packt Publishing"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6656794/items/RZXWBQY4",
+		"type": "motion_picture",
+		"abstract": "Is \"vibe coding\" the next wave in developer productivity, or will it be the cause of the coming cybersecurity apocalypse? Maybe it's both--if we're not careful. Steve Wilson is the author of The Developer's Playbook for Large Language Model Security and the founder of the OWASP Gen AI Security Project. He's a big fan of AI-assisted coding, but the web is filled with stories about how it causes critical weaknesses in code security. As development accelerates with generative AI tools, we're seeing a surge in poorly tested code, insecure dependencies, and both new and legacy vulnerabilities introduced by AI. We've asked Steve to join Tim O'Reilly for a conversation on how AI-assisted coding (and vibe coding in particular) introduces new classes of security vulnerabilities. Drawing from real-world cybersecurity insights, Steve will explain how attackers are already exploiting these gaps--and what organizations can do to stay ahead without slowing innovation or compromising development velocity. Recommended prep or follow-up: Read The Developer's Playbook for Large Language Model Security (book) Watch Tech Leadership Tuesday with Lena Reinhard: Leading Effective Engineering Teams in the Age of Generative AI with Addy Osmani (video) Watch Coding with AI: The End of Software Development as We Know (video)",
+		"call-number": "QA76.76.D47",
+		"note": "edition: First edition\nnumber-of-pages: 1\nOCLC: 1523102696",
+		"publisher": "O'Reilly Media, Inc",
+		"publisher-place": "Sebastopol, California",
+		"source": "Library Catalog (Blacklight)",
+		"title": "Building secure code in the age of vibe coding: Steve Wilson live with Tim O'Reilly",
+		"title-short": "Building secure code in the age of vibe coding",
+		"director": [
+			{
+				"family": "O'Reilly",
+				"given": "Tim"
+			},
+			{
+				"family": "Wilson",
+				"given": "Steve"
+			}
+		],
+		"contributor": [
+			{
+				"literal": "O'Reilly (Firm)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	}
+]
