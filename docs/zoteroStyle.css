@@ -5,7 +5,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #17191c; --fg: #e8e8e3; --muted: #9aa0a8; --card: #1f2227;
-    --line: #3a3e45; --accent: #fb923c; --accent-soft: #4a2c18; --bar: #fbe37b;
+    --line: #3a3e45; --accent: #fb923c; --accent-soft: #4a2c18; --bar: linear-gradient(180deg,rgba(252, 234, 114, 1) 0%, rgba(245, 144, 76, 1) 100%);
   }
 }
 * { box-sizing: border-box; }
