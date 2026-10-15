@@ -1,11 +1,15 @@
 :root {
   --bg: #fafaf7; --fg: #22252a; --muted: #6b7078; --card: #ffffff;
-  --line: #d9d9d2; --accent: #c2410c; --accent-soft: #fde4d3; --bar: #5b7fa6;
+  --line: #d9d9d2; --accent: #c2410c; --accent-soft: #fde4d3; --bar: rgb(201, 185, 8);
+  --bar-gradient: linear-gradient(180deg, rgb(201, 185, 8) 0%, rgba(245, 144, 76, 1) 100%);
+
 }
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #17191c; --fg: #e8e8e3; --muted: #9aa0a8; --card: #1f2227;
-    --line: #3a3e45; --accent: #fb923c; --accent-soft: #4a2c18; --bar: linear-gradient(180deg,rgba(252, 234, 114, 1) 0%, rgba(245, 144, 76, 1) 100%);
+    --line: #3a3e45; --accent: #fb923c; --accent-soft: #4a2c18; --bar: #fbe37b;
+    --bar-gradient: linear-gradient(180deg, rgba(252, 234, 114, 1) 0%, rgba(245, 144, 76, 1) 100%);
+
   }
 }
 * { box-sizing: border-box; }
@@ -35,7 +39,7 @@ section, details { background: var(--card); border: 1px solid var(--line);
 .bar-label { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .bar-track { height: 14px; }
 .bar-fill { height: 100%; background: var(--bar); border-radius: 3px; }
-.bar-row.selected .bar-fill { background: var(--accent); }
+.bar-row.selected .bar-fill { height: 100%; background: var(--bar-gradient); border-radius: 3px; }
 .bar-n { text-align: right; color: var(--muted); font-variant-numeric: tabular-nums; }
 
 /* --- network --- */
