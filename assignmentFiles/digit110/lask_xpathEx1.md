@@ -1,0 +1,51 @@
+**1. First, let's explore the CBML document in the Outline view in oXygen. (If you can't see the Outline view, go to Window >> Show View >> Outline.) Notice how the document is organized. Can you find the elements that hold a whole page, or "panel group" of the comic? The elements share this structure: <div type="panelGrp">. Write an XPath expression that finds all the elements that hold panel groups in this file**
+//div[@type="panelGrp"]
+
+**2. Use the expression that you wrote to answer 1, and "step down the tree" to find all the panels. Record your XPath expression. Notice that you need to use the cbml: prefix here. That is because these elements for panels are inside the CBML namespace.**
+
+//div[@type="panelGrp"]/cbml:panel
+
+**3. Let's try narrowing down the results with an XPath predicate, written with [ ] in your expression.**
+**- Write an XPath that will return only the second panel group (literally the second whole page) in the document. You can use a position marker: [2]**
+
+//div[@type="panelGrp"][2]
+
+**- Now, build on that expression to return only the <cbml:panel> elements inside that second panel group.**
+//div[@type="panelGrp"][2]/cbml:panel
+
+**- How many results do you return?**
+
+2 items
+
+**4. Let's explore finding attributes. As you explore the XML, notice how characters are marked in the panels.**
+**- Write an XPath expression that returns all the values of the @characters attribute.**
+//@characters
+
+**- How many results do you see?**
+
+53 items
+
+**5. Okay, usually we work with attributes to help filter elements. Let's say we want to find all the panels in which only the narrator is represented? Use an XPath predicate with [ ] to help return the panels that are only representing the narrator.**
+
+//cbml:panel[@characters="#narrator"]
+
+**6. The <floatingText> element in CBML is a pretty exciting application of the TEI. It lets you nest a whole new "document" inside any level of the text you want. How are these useful in CBML? Let's take a look at them**
+**- How many <floatingText> elements do you see?**
+
+//floatingText
+
+41 elements
+
+**- What kind of content do you think is being described here? (Take a guess if you're not sure--I know you can't see the whole comic.)**
+Text that is not part of the dialogue but is featured somewhere inside the panel
+
+**- How many panel elements contain floatingText elements? Write an XPath expression that uses a predicate [ ] to return only the <cbml:panel> elements that have a <floatingText> element inside.**
+//div[@type="panelGrp"][descendant::floatingText]
+
+19 panels have floatingText
+
+**- You can see the number of results in the return window, but let's try adding a function to your expression. Try applying the count() function to return a count of the number of panels that include floatingText.**
+
+count(//div[@type="panelGrp"][descendant::floatingText])
+
+19
