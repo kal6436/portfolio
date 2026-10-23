@@ -3,12 +3,16 @@ This is a big document, so the Outline view in oXygen might lag for you. Instead
 
 **2b. Find out all the child elements of the div that holds historical persons with XPath: Write an XPath that shows them to you even if you don't know/can't see the element names inside. (Hint: use the wildcard * character.)**
 - //div[@type="Mitford_Team"]/child::*
+- //div[@type="Mitford_Team"]/*! name() => distinct-values() => sort() /*syntax from class not sure if it exactly works yet but wanted to copy down incase*/
+
 
 **2c. Switch this up to take a look inside a different <div> of your choice and return its children, whatever they are.**
 - //div[@type="places"]/child::*
+- //div[@type="place"]/*! name() => distinct-values() => sort /*syntax from class not sure if it exactly works yet but wanted to copy down incase*/
 
 **2c. Okay, now let's take a look at all the possible child elements a <div> could have in this document. Record your XPath expression. The description in oXygen's results window shows you a number of results, but try applying the count() function to your expression to return that number. Hint: You can either wrap the function around the whole expression, or use the XPath arrow operator => to send the results to count().**
 - count(//div/child::*)
+- //div/*! name() => distinct-values() => sort() = count() /*syntax from class not sure if it exactly works yet but wanted to copy down incase*/
 - 20 children
 
 **3a. Find the <list> element that holds all the animal entries. How many entries are inside that list? Record your XPath expression, and once again, try using the count() function to return a number.**
