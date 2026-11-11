@@ -37,9 +37,6 @@ body {
     padding: 40px 80px;
     background-color: #FBFAFC;
     border: #6C8391 solid 5px;
-    background-image: url('paperTexture.png');
-    background-size:contain;
-    background-repeat:repeat;
 }
 
 p {

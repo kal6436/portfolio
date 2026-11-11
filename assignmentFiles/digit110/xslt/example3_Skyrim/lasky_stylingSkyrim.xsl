@@ -21,7 +21,6 @@
             </body>
         </html>
     </xsl:template>
-
     <!-- cover styling -->
     <xsl:template match="cover">
         <h1>
@@ -52,7 +51,7 @@
     </xsl:template>
 
     <!-- faction styling with awesome choose function -->
-    <xsl:template match="faction">
+    <!--<xsl:template match="faction">
         <xsl:choose>
             <xsl:when test="@ref = ('blades', 'empire')">
                 <span class="good">
@@ -70,8 +69,14 @@
                 </span>
             </xsl:otherwise>
         </xsl:choose>
-    </xsl:template>
+    </xsl:template>-->
 
+    <!-- better other way to catch factions -->
+    <xsl:template match="faction | character">
+        <span class="{//cast/*[@id ! normalize-space() = current()/@ref]/@alignment}">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
 
     <xsl:template match="QuestItem">
         <span class="questItem">
@@ -79,9 +84,9 @@
         </span>
     </xsl:template>
 
-    <xsl:template match="character">
+    <!--<xsl:template match="character">
         <span class="character"><xsl:apply-templates/></span>
-    </xsl:template>
+    </xsl:template>-->
 
     <xsl:template match="epithet">
         <span class="epithet"><xsl:apply-templates/></span>
