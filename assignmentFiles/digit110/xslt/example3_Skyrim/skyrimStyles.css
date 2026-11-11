@@ -1,0 +1,71 @@
+.good {
+   color: #0BA123;
+   font-weight: bold;
+}
+.evil {
+    color: #EB1047;
+    font-weight: bold;
+}
+.neutral {
+    color: #8829E6;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 55px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    color: #737373;
+    font-size: 20px;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url('backgroundImg.jpeg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-color: black;
+}
+
+.container {
+    margin: 30px;
+    padding: 50px;
+    background-color: #FBFAFC;
+    border: #6C8391 solid 5px;
+}
+
+p {
+    padding-bottom: 30px;
+}
+
+.questEvent {
+    background-color: #D7F2F5;
+}
+
+hr {
+    width: 100%;
+}
+
+.questItem {
+    font-weight: bold;
+    background-color: #DCADFF;
+}
+
+.character {
+    font-style: italic; 
+}
+
+.location {
+    background-color: #99C5FF;
+}
+
+.epithet {
+    font-style: italic; 
+    text-decoration: underline;
+    text-decoration-style: double;
+}
