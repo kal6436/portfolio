@@ -73,7 +73,7 @@
 
     <!-- better other way to catch factions -->
     <xsl:template match="faction | character">
-        <span class="{//cast/*[@id ! normalize-space() = current()/@ref]/@alignment}">
+        <span class="{//cast/*[@id ! normalize-space() = current()/@ref ! normalize-space()]/@alignment}">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
