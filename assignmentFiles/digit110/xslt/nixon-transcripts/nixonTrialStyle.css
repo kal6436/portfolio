@@ -1,0 +1,127 @@
+/* kal: I used Claude AI to help generate a basic css to use for this homework
+ * This is not the CSS I will use on the actual Nixon project */
+/* ---------- Colors ---------- */
+:root {
+  --text: #222;
+  --text-muted: #666;
+  --bg: #fafaf7;
+  --surface: #fff;
+  --accent: #1f4e79;
+  --border: #d8d8d0;
+  --note-bg: #f1efe6;
+}
+
+body {
+  max-width: 50rem;
+  margin: 0 auto;
+  padding: 2rem 1.25rem 4rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.125rem;      /* about 18px */
+  line-height: 1.65;
+  color: var(--text);
+  background: var(--bg);
+}
+
+/* ---------- Headings ---------- */
+h1, h2, h3 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.25;
+  color: var(--accent);
+}
+
+h2 {
+  font-size: 1.75rem;
+  margin: 0 0 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 3px solid var(--accent);
+}
+
+h3 {
+  font-size: 1.25rem;
+  margin: 2rem 0 0.5rem;
+}
+
+/* ---------- Links ---------- */
+a {
+  color: var(--accent);
+  text-underline-offset: 0.15em;
+}
+
+a:hover,
+a:focus {
+  color: #0d2a47;
+  text-decoration-thickness: 2px;
+}
+
+/* ---------- Table of contents ---------- */
+#toc {
+  margin-bottom: 3rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  background: var(--surface);
+}
+
+th, td {
+  padding: 0.6rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--border);
+}
+
+th {
+  background: var(--accent);
+  color: #fff;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+tr:nth-child(even) td {
+  background: #f6f6f1;
+}
+
+tr:hover td {
+  background: #e9eef4;
+}
+
+/* Keep the date from wrapping awkwardly */
+td:nth-child(2) {
+  white-space: nowrap;
+}
+
+/* ---------- Reading view ---------- */
+#readingView {
+  border-top: 3px solid var(--accent);
+  padding-top: 1rem;
+}
+
+/* Each conversation is its own block */
+.transcript {
+  margin: 3rem 0;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+/* Editor notes */
+.note {
+  display: block;
+  margin: 0 0 1.5rem;
+  padding: 1rem 1.25rem;
+  background: var(--note-bg);
+  border-left: 4px solid var(--accent);
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--text-muted);
+}
+
+/* Spoken lines */
+.transcript p {
+  margin: 0 0 0.9rem;
+  max-width: 65ch;
+}
